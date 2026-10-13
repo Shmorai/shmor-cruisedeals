@@ -12,8 +12,8 @@ A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design a
 | "Cruise region" field in every search box | `assets/site.js` |
 | Generated output (don't edit by hand) | `index.html`, `*/index.html`, `sitemap.xml`, `robots.txt`, `404.html`, `search/`, `search-index.json`, `blog/feed.xml` |
 
-## Pages (21)
-Home · cruise-deals (ways to save hub) · caribbean-cruises · mediterranean-cruises · greek-islands-cruises · alaska-cruises · norwegian-fjords-cruises · canary-islands-cruises · river-cruises · last-minute-cruises · cruises-from-southampton · family-cruises · luxury-cruises · expedition-cruises · first-time-cruise-guide · cruise-destinations · blog (+4 posts: EES/ETIAS/UK ETA for cruise passengers, wave season, Christmas & New Year cruises, what to pack).
+## Pages (23)
+Home · cruise-deals (ways to save hub) · caribbean-cruises · mediterranean-cruises · greek-islands-cruises · alaska-cruises · norwegian-fjords-cruises · canary-islands-cruises · river-cruises · last-minute-cruises · cruises-from-southampton · family-cruises · luxury-cruises · expedition-cruises · first-time-cruise-guide · cruise-destinations · blog (+6 posts: EES/ETIAS/UK ETA for cruise passengers, wave season, Christmas & New Year cruises, what to pack, passport & closed-loop cruise rules, hurricane season cruising).
 Top menu = pages with `navOrder` (Cruise deals [mobile/tablet only; desktop shows the gold "Ways to save" header button instead], Caribbean, Mediterranean, Alaska, River cruises, Destinations, Cruise blog). The rest are in the footer and linked via `related` and the region tiles.
 
 ## Cards & deal blocks (added 2026-10-13)
