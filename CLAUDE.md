@@ -24,6 +24,9 @@ Top menu = pages with `navOrder` (Caribbean, Mediterranean, Alaska, River cruise
 Factual and evergreen: no invented fares, deals, statistics or reviews. Seasons are given as "roughly"; anything that changes (entry rules, fees) uses "as of" wording and links official sources (`"sources"` on posts). Copy covers UK/EU protections (ATOL, Package Travel Regulations/Directive) and US (line terms + insurance). Blog posts: researched, linked from 1–3 pages via `"related"`, and their topic terms added to `shmor-site.json` keywords.
 - The entry-rules post (EES / ETIAS / UK ETA) was checked 2026-10-13: ETIAS not yet operating; re-check when the EU announces a start date and update `updated`.
 
+## Weekly blog automation
+Scheduled task "CruiseDeals: weekly blog posts" (Mondays ~9:40, after the TravelDeals task; runs while the Claude app is open). Each run pulls both repos, researches trending cruise topics, adds 2 fact-checked posts, links them from older pages, adds routing keywords to `shmor-site.json`, re-checks dated facts, rebuilds, syncs the master, then commits and pushes both repos. The user approved automatic pushes on 2026-10-13. Task file: `~/.claude/scheduled-tasks/cruisedeals-weekly-blog/SKILL.md`.
+
 ## Search routing on shmor.ai
 `shmor-site.json` keywords route cruise searches here. On 2026-10-13 the bare keyword "cruise" was removed from TravelDeals so "cruise" searches come to CruiseDeals instead.
 
@@ -42,4 +45,4 @@ After changing `shmor-site.json` (links, keywords, card), also run `node tools/s
 Likely programmes: cruise lines and cruise agencies on Awin (UK/EU) and CJ/Impact (US).
 
 ## Ideas / next
-Referral links · more port/region pages (Canary Islands cruises, Baltic, Greek islands, Bahamas, cruises from Miami/Seattle) · a social share image (`seo.image`) · a weekly blog task like TravelDeals'.
+Referral links · more port/region pages (Canary Islands cruises, Baltic, Greek islands, Bahamas, cruises from Miami/Seattle) · a social share image (`seo.image`).
