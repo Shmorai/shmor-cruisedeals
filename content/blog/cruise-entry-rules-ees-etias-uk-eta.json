@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-13",
+  "date": "2026-10-13",
+  "slug": "blog/cruise-entry-rules-ees-etias-uk-eta",
+  "type": "post",
+  "title": "Cruise Entry Rules: EES, ETIAS and the UK ETA",
+  "description": "How Europe’s Entry/Exit System, the planned ETIAS and the UK ETA affect cruise passengers, who needs what, and where to check official rules before you sail.",
+  "h1": "EES, ETIAS and the UK ETA: what cruise passengers need to know",
+  "eyebrow": "Cruise news · Entry rules",
+  "intro": "Europe and the UK have changed how they check visitors. Here’s how the new systems apply when you arrive by ship, as of October 2026.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1617402637303-43c776248c76",
+    "alt": "White and blue cruise ship moored at a dock",
+    "credit": "Frankie Lu",
+    "creditUrl": "https://unsplash.com/@frankie_bp"
+  },
+  "keywords": [
+    "ees cruise",
+    "etias cruise",
+    "uk eta cruise",
+    "entry exit system cruise",
+    "cruise passport rules",
+    "schengen cruise",
+    "etias",
+    "uk eta",
+    "entry exit system"
+  ],
+  "cardText": "How Europe’s Entry/Exit System, ETIAS and the UK ETA apply when you arrive by ship.",
+  "sections": [
+    {
+      "h2": "The EU Entry/Exit System (EES)",
+      "html": "<p>The EES is a digital system that registers non-EU travellers on short stays when they cross the external borders of Schengen countries. It records your name, passport details, fingerprints and a facial image, replacing passport stamps. It began on 12 October 2025 and was phased in over six months.</p><p>The EES applies at all Schengen border crossing points, <strong>including seaports</strong>, so it affects cruise passengers who are not EU or Schengen citizens. How the checks are done for cruise passengers can vary by port and cruise line, so follow your cruise line’s instructions.</p>"
+    },
+    {
+      "h2": "ETIAS: not yet in operation",
+      "html": "<p>ETIAS is a planned travel authorisation for visa-exempt visitors to most Schengen countries, including UK and US citizens. As of October 2026, it is <strong>not yet in operation</strong>, and no traveller needs to apply. The EU says it will announce the start date several months in advance, and expects a transition period when it begins.</p><p>Once ETIAS starts, it’s expected that cruise lines will check passengers hold one where it’s required, as airlines will. Only use the official EU website when the time comes: unofficial sites may charge extra fees.</p>"
+    },
+    {
+      "h2": "The UK Electronic Travel Authorisation (ETA)",
+      "html": "<p>The UK ETA is now required by most visitors who don’t need a UK visa, including US citizens and most EU citizens. British and Irish citizens don’t need one. It applies to cruises that start or end in the UK, such as sailings from <a href=\"/cruises-from-southampton/\">Southampton</a>, and generally if you’ll go ashore at a UK port of call. Check the gov.uk guidance on whether you need one if you’ll stay onboard.</p><p>You apply online or through the official UK ETA app, and the official fee and validity are listed on gov.uk.</p>"
+    },
+    {
+      "h2": "Checklist before you sail",
+      "html": "<ul><li>Check entry requirements for <strong>every</strong> country on your itinerary, not just the departure port.</li>\n<li>Check your passport’s expiry and issue dates against each country’s rules.</li>\n<li>Apply for any required authorisation, such as a UK ETA, well before you travel and only through official channels.</li>\n<li>Read your cruise line’s document guidance: it may set its own requirements.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need ETIAS for a Mediterranean cruise?",
+      "a": "Not yet. As of October 2026 ETIAS is not in operation. Check the official EU ETIAS website for the start date before future trips."
+    },
+    {
+      "q": "Do US citizens need a UK ETA for a cruise from Southampton?",
+      "a": "Generally yes, if you are entering the UK to join or leave the ship. Check gov.uk for the current rules for your situation."
+    },
+    {
+      "q": "Does EES apply to UK cruise passengers?",
+      "a": "Yes. UK citizens are non-EU travellers, so the EES applies when they enter or leave the Schengen area on a short stay, including at seaports."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Entry/Exit System (EES), European Union",
+      "url": "https://travel-europe.europa.eu/ees_en"
+    },
+    {
+      "title": "ETIAS, European Union",
+      "url": "https://travel-europe.europa.eu/etias_en"
+    },
+    {
+      "title": "Get an electronic travel authorisation (ETA), GOV.UK",
+      "url": "https://www.gov.uk/eta"
+    }
+  ],
+  "related": [
+    "mediterranean-cruises",
+    "cruises-from-southampton",
+    "norwegian-fjords-cruises"
+  ]
+}

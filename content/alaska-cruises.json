@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-13",
+  "slug": "alaska-cruises",
+  "nav": "Alaska",
+  "navOrder": 3,
+  "title": "Alaska Cruises: Compare Deals, Routes & Seasons",
+  "description": "Compare Alaska cruise deals: Inside Passage round trips, one-way Gulf of Alaska routes, glaciers, the best months to go and ports in Seattle and Vancouver.",
+  "keywords": [
+    "alaska cruises",
+    "alaska cruise deals",
+    "inside passage cruise",
+    "glacier bay cruise",
+    "cruises from seattle",
+    "cruises from vancouver",
+    "alaska cruise tour",
+    "gulf of alaska cruise"
+  ],
+  "cardText": "Glaciers, whales and the Inside Passage: round trips and one-way routes compared.",
+  "eyebrow": "Ocean cruises",
+  "h1": "Alaska cruises",
+  "intro": "Glaciers, mountains, whales and frontier towns. Compare Alaska cruise deals and choose between Inside Passage round trips and one-way Gulf of Alaska sailings.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1690982951685-2b1d4cd62e02",
+    "alt": "Huge tidewater glacier meeting the sea below snowy mountains",
+    "credit": "Mick Kirchman",
+    "creditUrl": "https://unsplash.com/@mickkirch"
+  },
+  "searchPlaceholder": "Search Alaska cruises…",
+  "sections": [
+    {
+      "h2": "Inside Passage or Gulf of Alaska?",
+      "html": "<ul><li><strong>Inside Passage round trips</strong> usually sail from Seattle or Vancouver and visit ports such as Juneau, Ketchikan and Skagway, often with a day of scenic cruising near a glacier.</li>\n<li><strong>One-way Gulf of Alaska cruises</strong> sail between Vancouver and Seward or Whittier (the ports for Anchorage). They reach further north and pair well with a land tour to Denali.</li>\n<li><strong>Cruise tours</strong> combine a cruise with a few nights on land, often by rail and coach, to see Alaska’s interior.</li></ul>"
+    },
+    {
+      "h2": "When is the Alaska cruise season?",
+      "html": "<p>The Alaska season runs roughly from <strong>May to September</strong>. Early and late season (May and September) can be quieter and better value, with cooler weather. Mid-summer brings the longest days and the warmest temperatures. Wildlife sightings vary through the season, so if you have a particular animal in mind, check when it’s most likely to be seen.</p><p>Pack layers and waterproofs whatever the month: weather in Alaska changes quickly, and it’s often cool on deck near the glaciers.</p>"
+    },
+    {
+      "h2": "Departure ports and getting there",
+      "html": "<p>Seattle and Vancouver are the main departure ports for round trips. Because of US cabotage rules, foreign-flagged ships sailing round trip from Seattle must call at a foreign port, which is why these itineraries usually stop in Victoria, British Columbia. If you sail from or via Canada, check Canadian entry requirements for your nationality.</p><p>From the UK and Europe, Alaska cruises are long-haul fly-cruises, so it’s worth allowing a night or two in Seattle or Vancouver before you sail.</p>"
+    },
+    {
+      "h2": "Tips for an Alaska cruise",
+      "html": "<ul><li>A balcony or a good public viewing spot makes a big difference on scenic cruising days.</li>\n<li>Popular excursions such as floatplane flights, whale watching and glacier helicopter trips can sell out early.</li>\n<li>Bring binoculars and a camera with a zoom lens.</li>\n<li>If you plan a cruise tour, compare the land portion carefully: it varies a lot between lines.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best month for an Alaska cruise?",
+      "a": "There’s no single best month. June to August is warmest with the longest days. May and September are often quieter and better value, with cooler weather."
+    },
+    {
+      "q": "Do I need a passport for an Alaska cruise?",
+      "a": "Most Alaska cruises visit Canada, so a valid passport is strongly recommended. Requirements depend on your nationality and route, so check with your cruise line and official government guidance."
+    },
+    {
+      "q": "Will I see glaciers on every Alaska cruise?",
+      "a": "Most itineraries include scenic cruising near at least one glacier, but which one, and how close the ship gets, depends on the route, the weather and ice conditions on the day."
+    }
+  ],
+  "related": [
+    "expedition-cruises",
+    "norwegian-fjords-cruises",
+    "first-time-cruise-guide",
+    "blog/what-to-pack-for-a-cruise"
+  ]
+}

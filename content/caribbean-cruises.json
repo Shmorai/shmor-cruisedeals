@@ -1,0 +1,68 @@
+{
+  "updated": "2026-10-13",
+  "slug": "caribbean-cruises",
+  "nav": "Caribbean",
+  "navOrder": 1,
+  "title": "Caribbean Cruises: Compare Deals & Itineraries",
+  "description": "Compare Caribbean cruise deals: Eastern, Western and Southern Caribbean itineraries, the best time to sail, departure ports and tips for US and UK cruisers.",
+  "keywords": [
+    "caribbean cruises",
+    "caribbean cruise deals",
+    "eastern caribbean cruise",
+    "western caribbean cruise",
+    "southern caribbean cruise",
+    "bahamas cruise",
+    "cruises from miami",
+    "cruises from florida",
+    "caribbean fly cruise"
+  ],
+  "cardText": "Island-hopping in warm water: Eastern, Western and Southern Caribbean routes compared.",
+  "eyebrow": "Ocean cruises",
+  "h1": "Caribbean cruises",
+  "intro": "Beaches, reefs and a different island almost every day. Compare Caribbean cruise deals and learn which route, season and departure port suit you best.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1717541262982-731503ac4dc2",
+    "alt": "Cruise ship docked beside a palm-lined tropical beach",
+    "credit": "Anju Ravindranath",
+    "creditUrl": "https://unsplash.com/@anjurnath"
+  },
+  "searchPlaceholder": "Search Caribbean cruises…",
+  "sections": [
+    {
+      "h2": "Eastern, Western or Southern Caribbean?",
+      "html": "<ul><li><strong>Eastern Caribbean:</strong> often calls at islands such as St. Thomas, St. Maarten and Puerto Rico, plus the Bahamas. Known for beaches and duty-free shopping.</li>\n<li><strong>Western Caribbean:</strong> typically visits Mexico’s Yucatán coast (Cozumel), Belize, Honduras, Jamaica and the Cayman Islands. Good for Mayan ruins, reefs and snorkelling.</li>\n<li><strong>Southern Caribbean:</strong> reaches further-flung islands such as Aruba, Curaçao, Barbados and St. Lucia. Itineraries are often longer, or start from a Caribbean port.</li>\n<li><strong>Bahamas short cruises:</strong> three- to five-night sailings from Florida, often including a cruise line’s private island. A popular first cruise.</li></ul>"
+    },
+    {
+      "h2": "When is the best time for a Caribbean cruise?",
+      "html": "<p>The Caribbean is warm all year. The most popular period is roughly December to April, which is the region’s drier season and a welcome escape from northern winters. The Atlantic hurricane season officially runs from 1 June to 30 November, with the peak usually from August to October. Cruises still sail then, and fares can be lower, but ships may change their itinerary to avoid storms.</p><p>If you sail in hurricane season, read the cruise line’s policy on itinerary changes and consider travel insurance that covers disruption.</p>"
+    },
+    {
+      "h2": "Where Caribbean cruises sail from",
+      "html": "<p><strong>From the US:</strong> Florida is the hub, with Miami, Fort Lauderdale (Port Everglades), Port Canaveral and Tampa. Galveston in Texas, New Orleans and New York also have Caribbean sailings.</p><p><strong>From the UK and Europe:</strong> most people take a <strong>fly-cruise</strong>, flying to Florida or to a Caribbean port such as Barbados and joining the ship there. Some longer sailings cross the Atlantic from Southampton or European ports, usually at the start or end of the winter season (see <a href=\"/blog/wave-season-cruise-deals/\">wave season</a> for timing deals).</p>"
+    },
+    {
+      "h2": "Tips for booking a Caribbean cruise",
+      "html": "<ul><li>For a fly-cruise, check whether flights and transfers are included, and whether the package is ATOL protected if you book in the UK.</li>\n<li>Arrive a day early if you’re flying in: missing the ship because of a delayed flight can be costly.</li>\n<li>Popular shore excursions can sell out, so look at options before you sail.</li>\n<li>Check passport and entry requirements for every island on the itinerary.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long is a typical Caribbean cruise?",
+      "a": "Seven nights is the most common length, but you’ll find short three- to five-night trips to the Bahamas and longer 10- to 14-night sailings that reach the Southern Caribbean."
+    },
+    {
+      "q": "Is it safe to cruise in hurricane season?",
+      "a": "Cruise lines track storms closely and change itineraries to avoid them, which can mean skipping or swapping ports. If a fixed itinerary matters to you, sail between December and April."
+    },
+    {
+      "q": "Do I need a passport for a Caribbean cruise?",
+      "a": "Requirements depend on your nationality, the ports visited and where the cruise starts and ends. Some round-trip cruises from the US accept other documents for US citizens, but a valid passport is strongly recommended. Check with your cruise line and official government guidance."
+    }
+  ],
+  "related": [
+    "last-minute-cruises",
+    "family-cruises",
+    "first-time-cruise-guide",
+    "blog/christmas-new-year-cruises"
+  ]
+}

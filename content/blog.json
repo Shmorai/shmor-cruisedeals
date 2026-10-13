@@ -1,0 +1,28 @@
+{
+  "updated": "2026-10-13",
+  "slug": "blog",
+  "type": "blog",
+  "title": "Cruise Blog: News, Tips & Guides | CruiseDeals",
+  "description": "Cruise news and guides for UK, US and European cruisers: new entry rules, when to find the best cruise deals, festive sailings and practical packing tips.",
+  "nav": "Cruise blog",
+  "navOrder": 7,
+  "eyebrow": "Cruise news · Tips · Guides",
+  "h1": "Cruise news and guides",
+  "intro": "The cruise topics people are searching for right now, explained clearly: new border rules, when deals appear, where to sail next and how to prepare.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1563189450-174342be7efe",
+    "alt": "Passengers on the deck of a river cruise ship below mountains",
+    "credit": "Nacho Díaz Latorre",
+    "creditUrl": "https://unsplash.com/@nachodiaz"
+  },
+  "search": false,
+  "listTitle": "Latest posts",
+  "keywords": [
+    "cruise blog",
+    "cruise news",
+    "cruise tips",
+    "cruise guides",
+    "cruise advice"
+  ],
+  "cardText": "Cruise news, entry rules and planning tips, updated regularly."
+}

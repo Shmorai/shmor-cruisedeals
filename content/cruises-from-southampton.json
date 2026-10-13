@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-13",
+  "slug": "cruises-from-southampton",
+  "nav": "From the UK",
+  "title": "Cruises from Southampton & UK Ports Compared",
+  "description": "Compare cruises from Southampton and other UK ports: Norwegian fjords, the Med, the Canaries, transatlantic crossings and no-fly cruise tips.",
+  "keywords": [
+    "cruises from southampton",
+    "cruises from uk",
+    "no fly cruises",
+    "cruises from dover",
+    "cruises from liverpool",
+    "cruises from newcastle",
+    "uk cruise ports",
+    "canary islands cruise",
+    "transatlantic cruise"
+  ],
+  "cardText": "No-fly cruise holidays from Southampton and other UK ports, and where they sail.",
+  "eyebrow": "UK cruise ports",
+  "h1": "Cruises from Southampton and UK ports",
+  "intro": "Skip the airport and sail from home. Compare cruises from Southampton and other UK ports to Norway, the Mediterranean, the Canary Islands and across the Atlantic.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1707136154892-d798ec916cd6",
+    "alt": "Large cruise ship docked in a harbour",
+    "credit": "Annie Spratt",
+    "creditUrl": "https://unsplash.com/@anniespratt"
+  },
+  "searchPlaceholder": "Search UK cruises…",
+  "sections": [
+    {
+      "h2": "Where cruises from Southampton go",
+      "html": "<p>Southampton is the UK’s main cruise port, with sailings all year. Common itineraries include:</p><ul><li><a href=\"/norwegian-fjords-cruises/\">Norwegian fjords</a> and northern Europe, mainly in summer.</li>\n<li><strong>Canary Islands, Madeira and Lisbon</strong>: a popular winter-sun choice without flying.</li>\n<li><a href=\"/mediterranean-cruises/\">The Mediterranean</a> via Spain and Portugal, usually two weeks or longer.</li>\n<li><strong>Short breaks</strong> to Belgium, the Netherlands, France or the Channel Islands.</li>\n<li><strong>Transatlantic crossings</strong> to New York, and longer voyages to the <a href=\"/caribbean-cruises/\">Caribbean</a>.</li>\n<li><strong>World cruises</strong> of three months or more, usually starting in January.</li></ul>"
+    },
+    {
+      "h2": "Other UK cruise ports",
+      "html": "<p>Southampton has the widest choice, but you may find a sailing closer to home: <strong>Dover</strong> and <strong>Tilbury</strong> in the South East, <strong>Portsmouth</strong> on the south coast, <strong>Liverpool</strong> in the North West, <strong>Newcastle</strong> (Port of Tyne) in the North East, and Scottish ports such as Rosyth and Greenock. Smaller ports tend to have fewer, more seasonal departures.</p>"
+    },
+    {
+      "h2": "Why choose a no-fly cruise?",
+      "html": "<ul><li>No flight costs, airport queues or flight delays to worry about.</li>\n<li>More generous luggage: you’re limited by what you can carry to the ship, not an airline allowance.</li>\n<li>You can usually drive and park at the port, or arrive by train.</li>\n<li>The trade-off: more sea days to reach warmer waters, so you need a longer trip to get far.</li></ul>"
+    },
+    {
+      "h2": "Tips for sailing from Southampton",
+      "html": "<ul><li>Check which terminal your ship uses, as Southampton has several.</li>\n<li>Book port parking ahead, especially in summer, or check the train and shuttle options.</li>\n<li>Check-in usually runs in time slots, so follow your line’s embarkation instructions.</li>\n<li>Even on a round trip from the UK, check entry rules for every country you’ll visit.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a passport for a cruise from Southampton?",
+      "a": "Yes, in almost all cases, because cruises from Southampton visit other countries. Check your cruise line’s document requirements and official guidance for each country on the itinerary."
+    },
+    {
+      "q": "Can I take a cruise from the UK to the Caribbean?",
+      "a": "Yes. Some ships sail from Southampton to the Caribbean, usually in autumn and winter. It takes around a week or more to cross the Atlantic, so these are long cruises. Many people take a fly-cruise instead."
+    },
+    {
+      "q": "What’s the best cruise from Southampton for a first-timer?",
+      "a": "A short break of two to five nights to nearby European ports is a low-commitment way to try cruising. A seven-night Norwegian fjords cruise is another popular first choice."
+    }
+  ],
+  "related": [
+    "norwegian-fjords-cruises",
+    "mediterranean-cruises",
+    "last-minute-cruises",
+    "blog/cruise-entry-rules-ees-etias-uk-eta"
+  ]
+}

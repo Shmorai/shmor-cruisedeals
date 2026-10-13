@@ -1,0 +1,64 @@
+{
+  "updated": "2026-10-13",
+  "slug": "river-cruises",
+  "nav": "River cruises",
+  "navOrder": 4,
+  "title": "River Cruises: Compare Danube, Rhine & Nile Deals",
+  "description": "Compare river cruise deals on the Danube, Rhine, Douro, Seine and Nile. What’s included, how river cruises differ from ocean cruises and when to go.",
+  "keywords": [
+    "river cruises",
+    "river cruise deals",
+    "danube river cruise",
+    "rhine river cruise",
+    "douro river cruise",
+    "seine river cruise",
+    "nile cruise",
+    "european river cruise",
+    "christmas market river cruise"
+  ],
+  "cardText": "Small ships, big sights: Danube, Rhine, Douro, Seine and Nile river cruises compared.",
+  "eyebrow": "River cruises",
+  "h1": "River cruises",
+  "intro": "Wake up in a new city most mornings and step straight ashore. Compare river cruise deals on Europe’s great rivers and beyond, and see how they differ from ocean cruising.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1761157845286-7663794fd91d",
+    "alt": "Budapest’s Parliament building on the Danube at sunset",
+    "credit": "Umair Ali Asad",
+    "creditUrl": "https://unsplash.com/@umairaliasad"
+  },
+  "searchPlaceholder": "Search river cruises…",
+  "sections": [
+    {
+      "h2": "Popular river cruise routes",
+      "html": "<ul><li><strong>Danube:</strong> through Germany, Austria, Slovakia and Hungary, often between Passau or Nuremberg and Budapest, with longer routes reaching the Black Sea. Highlights include Vienna, the Wachau Valley and Budapest.</li>\n<li><strong>Rhine:</strong> from Amsterdam to Basel, past castles and vineyards in the Rhine Gorge, Cologne and Strasbourg.</li>\n<li><strong>Douro:</strong> Portugal’s wine country, from Porto through terraced vineyards.</li>\n<li><strong>Seine:</strong> Paris to Normandy, with Monet’s Giverny and the D-Day beaches.</li>\n<li><strong>Nile:</strong> between Luxor and Aswan, past ancient Egyptian temples.</li>\n<li><strong>Further afield:</strong> the Mekong in Southeast Asia and the Mississippi in the US.</li></ul>"
+    },
+    {
+      "h2": "How river cruises differ from ocean cruises",
+      "html": "<ul><li><strong>Smaller ships:</strong> usually far fewer passengers than an ocean ship, with a more relaxed, social atmosphere.</li>\n<li><strong>More time ashore:</strong> ships dock close to town centres, and many days include a guided walk.</li>\n<li><strong>More included:</strong> many river cruise fares include some drinks with meals and a choice of excursions. Check exactly what’s covered.</li>\n<li><strong>Fewer facilities:</strong> expect a lounge, restaurant and sun deck rather than theatres, waterslides and casinos.</li>\n<li><strong>No seasickness:</strong> rivers are calm, which suits people who worry about rough seas.</li></ul>"
+    },
+    {
+      "h2": "When to take a river cruise",
+      "html": "<p>Europe’s river season usually runs from spring to autumn, with special <a href=\"/blog/christmas-new-year-cruises/\">Christmas market cruises</a> in late November and December. Spring brings blossom and tulips (in the Netherlands and Belgium), summer is warmest and busiest, and autumn brings the wine harvest. Nile cruises are most popular in the cooler months, roughly October to April.</p><p><strong>Water levels:</strong> very high or very low water can occasionally stop ships passing under bridges or through shallow stretches. Lines may then swap ships or replace part of the trip with coach transfers. Read the line’s policy before you book.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are river cruises all-inclusive?",
+      "a": "Many are more inclusive than ocean cruises, often covering some drinks and excursions, but it varies by line and fare. Check what’s included before comparing prices."
+    },
+    {
+      "q": "Are river cruises good for first-timers?",
+      "a": "Yes, many people find them easy: the ship is small, you’re rarely far from land and you see a lot without much planning. Read our <a href=\"/first-time-cruise-guide/\">first-time cruise guide</a> for the basics."
+    },
+    {
+      "q": "Are river cruises suitable for children?",
+      "a": "Most European river cruises are aimed at adults and have few facilities for children, although some lines run family-friendly sailings in the school holidays. Check age policies before booking."
+    }
+  ],
+  "related": [
+    "mediterranean-cruises",
+    "luxury-cruises",
+    "blog/christmas-new-year-cruises",
+    "cruise-destinations"
+  ]
+}

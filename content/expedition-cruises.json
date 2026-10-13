@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-13",
+  "slug": "expedition-cruises",
+  "nav": "Expedition",
+  "title": "Expedition Cruises: Antarctica, Arctic & Galápagos",
+  "description": "Compare expedition cruise deals to Antarctica, the Arctic, Svalbard, Greenland and the Galápagos: seasons, life onboard and how to choose a voyage.",
+  "keywords": [
+    "expedition cruises",
+    "antarctica cruise",
+    "arctic cruise",
+    "svalbard cruise",
+    "greenland cruise",
+    "galapagos cruise",
+    "polar cruise",
+    "expedition cruise deals"
+  ],
+  "cardText": "Antarctica, the Arctic and the Galápagos: small-ship adventures with landings by Zodiac.",
+  "eyebrow": "Cruise styles",
+  "h1": "Expedition cruises",
+  "intro": "Penguins, icebergs, polar bears and remote islands. Compare expedition cruise deals and learn when to go and what to expect.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1671362500619-4b9c06b5c5e1",
+    "alt": "Small boat of expedition passengers among towering icebergs",
+    "credit": "Bob Brewer",
+    "creditUrl": "https://unsplash.com/@brewbottle"
+  },
+  "searchPlaceholder": "Search expedition cruises…",
+  "sections": [
+    {
+      "h2": "Where expedition cruises go",
+      "html": "<ul><li><strong>Antarctica:</strong> most voyages sail from Ushuaia in Argentina across the Drake Passage to the Antarctic Peninsula. Some fly over the Drake to save time.</li>\n<li><strong>The Arctic:</strong> Svalbard, Greenland, Iceland and Arctic Canada, with chances to see polar bears, walruses and seabirds.</li>\n<li><strong>The Galápagos:</strong> small ships visiting islands with unique wildlife under Ecuador’s national park rules.</li>\n<li><strong>Other regions:</strong> Australia’s Kimberley coast, the Amazon and remote Pacific islands.</li></ul>"
+    },
+    {
+      "h2": "When to go",
+      "html": "<p><strong>Antarctica</strong> voyages run during the southern summer, roughly <strong>November to March</strong>. Early season has pristine snow, mid-season brings penguin chicks, and late season is often good for whales. <strong>Arctic</strong> voyages run in the northern summer, roughly June to September. The <strong>Galápagos</strong> can be visited all year, with different wildlife highlights by season.</p>"
+    },
+    {
+      "h2": "What to expect on an expedition cruise",
+      "html": "<ul><li>Small ships with ice-strengthened hulls, often carrying a team of naturalists and guides.</li>\n<li>Landings and cruising by Zodiac (inflatable boat), weather permitting.</li>\n<li>Flexible plans: the route changes daily with ice, weather and wildlife.</li>\n<li>In Antarctica, landings follow IAATO guidelines that limit how many people go ashore at once.</li>\n<li>A Drake Passage crossing can be rough, so pack seasickness remedies.</li></ul>"
+    },
+    {
+      "h2": "Tips for choosing a voyage",
+      "html": "<ul><li>Compare ship size: smaller ships can usually land more people more often.</li>\n<li>Check what’s included, such as parkas, boots, flights to the embarkation port and pre-cruise hotels.</li>\n<li>Check medical and insurance requirements: many polar voyages require evacuation cover.</li>\n<li>These trips often sell out well in advance, especially for popular dates.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best time to cruise to Antarctica?",
+      "a": "The season runs from roughly November to March. December and January have the longest days and warmest temperatures, with penguin chicks hatching around then. Late season is often good for whale sightings."
+    },
+    {
+      "q": "Is the Drake Passage rough?",
+      "a": "It can be. Crossings range from calm to very rough. Fly-cruise options skip the crossing by flying to the South Shetland Islands."
+    },
+    {
+      "q": "Do I need special clothing for a polar cruise?",
+      "a": "You need warm, waterproof layers. Many expedition lines provide or lend a parka and waterproof boots. Check your line’s packing list."
+    }
+  ],
+  "related": [
+    "luxury-cruises",
+    "alaska-cruises",
+    "norwegian-fjords-cruises",
+    "blog/what-to-pack-for-a-cruise"
+  ]
+}

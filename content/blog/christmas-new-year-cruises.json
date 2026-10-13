@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-13",
+  "date": "2026-10-13",
+  "slug": "blog/christmas-new-year-cruises",
+  "type": "post",
+  "title": "Christmas and New Year Cruises: Where to Go",
+  "description": "Ideas for Christmas and New Year cruises: Caribbean sunshine, Canary Islands winter sun, Christmas market river cruises and festive booking tips.",
+  "h1": "Christmas and New Year cruises: festive ideas and booking tips",
+  "eyebrow": "Cruise ideas · Festive season",
+  "intro": "Swap the cooking and washing-up for a festive cruise. Here are the most popular ideas for Christmas and New Year at sea or on the river, and what to know before booking.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1517633350975-9444b4a80782",
+    "alt": "Cruise ship lit up at night on calm dark water",
+    "credit": "Artak Petrosyan",
+    "creditUrl": "https://unsplash.com/@artakpetrosyan"
+  },
+  "keywords": [
+    "christmas cruise",
+    "christmas cruises",
+    "new year cruise",
+    "new years eve cruise",
+    "christmas market cruise",
+    "christmas market river cruise",
+    "festive cruise",
+    "holiday season cruise"
+  ],
+  "cardText": "Caribbean sunshine, Canary Islands winter sun and Christmas market river cruises.",
+  "sections": [
+    {
+      "h2": "Christmas in the sun",
+      "html": "<ul><li><strong>The Caribbean:</strong> the most popular festive choice, during the region’s drier season. US cruisers can sail from Florida; UK and European cruisers often take a fly-cruise. See <a href=\"/caribbean-cruises/\">Caribbean cruises</a>.</li>\n<li><strong>Canary Islands and Madeira:</strong> mild winter weather, often on round trips from <a href=\"/cruises-from-southampton/\">Southampton</a> with no flights. Madeira’s New Year’s Eve fireworks over Funchal are a famous highlight.</li>\n<li><strong>Long-haul:</strong> Australia’s summer cruise season, Dubai and the Arabian Gulf, or Southeast Asia.</li></ul>"
+    },
+    {
+      "h2": "Christmas market river cruises",
+      "html": "<p>From late November through December, <a href=\"/river-cruises/\">river cruises</a> on the Rhine and Danube visit towns famous for their Christmas markets, such as Cologne, Strasbourg, Nuremberg, Vienna and Budapest. Expect cold weather, short days and lots of mulled wine. Some sailings fall over Christmas itself, but many run in the weeks before.</p>"
+    },
+    {
+      "h2": "Tips for booking a festive cruise",
+      "html": "<ul><li>Festive sailings fall in school holidays and are among the most popular of the year, so the best cabins go early.</li>\n<li>Fares are often higher than at other times of year. Sailing just before or after the holiday dates can cost less.</li>\n<li>Check what’s included: festive gala dinners and New Year’s Eve parties are common, but some events may cost extra.</li>\n<li>If you’re flying to the ship, allow plenty of time for winter weather delays.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do cruise ships celebrate Christmas?",
+      "a": "Yes. Most ships decorate for the season and hold festive meals, carols and events, and a New Year’s Eve party. Details vary by line and ship."
+    },
+    {
+      "q": "When do Christmas market river cruises run?",
+      "a": "Usually from late November to just before Christmas, with some departures over Christmas and New Year."
+    }
+  ],
+  "related": [
+    "river-cruises",
+    "caribbean-cruises",
+    "cruises-from-southampton"
+  ]
+}

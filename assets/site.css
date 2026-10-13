@@ -134,3 +134,199 @@ section h2 { font-size: clamp(26px, 3.4vw, 36px); margin-bottom: 24px; }
 .sources ul { margin: 0; padding-left: 20px; color: var(--ink-2); }
 .sources a { color: var(--accent-2); }
 .more-link { margin: 18px 0 0; font-weight: 600; } .more-link a { color: var(--accent-2); }
+
+/* =====================================================================
+   CruiseDeals theme: "midnight voyage"
+   Deep-ocean navy pages, champagne-gold accents, Fraunces serif headings,
+   one big search card over a sunset photo, porthole-style numbered tiles.
+   ===================================================================== */
+:root {
+  color-scheme: dark;
+  --accent: #E3B04B;        /* champagne gold: buttons, links (matches the shmor.ai card accent) */
+  --accent-dark: #C9962F;
+  --accent-soft: rgba(227,176,75,.12);
+  --sea: #5EC4D6;           /* sea glass: secondary highlights */
+  --accent-2: var(--accent);
+  --bg: #071526;
+  --surface: #0D2038;
+  --surface-2: #0A1B30;
+  --line: #1D3452;
+  --ink: #F4F1EA;
+  --ink-2: #B9C3D0;
+  --ink-3: #8494A8;
+  --radius: 14px;
+  --display: "Fraunces", Georgia, serif;
+  --font: "Inter", system-ui, sans-serif;
+  --shadow: 0 10px 30px rgba(0,0,0,.35);
+}
+body { background: var(--bg); color: var(--ink); }
+h1, h2, h3 { font-weight: 600; letter-spacing: -.01em; }
+h4 { font-family: var(--font); font-weight: 700; }
+
+/* Header */
+.site-header { background: rgba(7,21,38,.88); border-bottom: 1px solid var(--line); }
+.bar { height: 66px; }
+.brand-wrap { display: flex; align-items: center; gap: 10px; }
+.brand { display: inline-flex; align-items: center; gap: 9px; }
+.cd-mark { width: 34px; height: 34px; flex: 0 0 auto; box-shadow: 0 0 0 1px rgba(227,176,75,.35); border-radius: 10px; }
+.cd-word { font: 600 23px var(--display); letter-spacing: -.02em; color: var(--ink); }
+.cd-word b { font-weight: 600; font-style: italic; color: var(--accent); }
+.by { font: 500 12px var(--font); color: var(--ink-3); border: 1px solid var(--line); border-radius: 999px; padding: 3px 9px; white-space: nowrap; text-decoration: none; }
+.by:hover { color: var(--accent); border-color: var(--accent); }
+@media (max-width: 520px) { .by { display: none; } }
+.nav { gap: 2px; }
+.nav a { color: var(--ink-2); font-size: 14.5px; font-weight: 600; padding: 8px 11px; border-radius: 8px; }
+.nav a:hover, .nav a[aria-current] { color: var(--accent); background: var(--accent-soft); }
+@media (max-width: 860px) {
+  .nav { top: 66px; background: var(--surface); box-shadow: var(--shadow); padding: 8px 16px 16px; }
+  .nav a { border-radius: 0; padding: 13px 4px; border-bottom: 1px solid var(--line); }
+  .nav a:hover { background: none; }
+}
+
+/* Heroes */
+.hero-art { display: none; }
+.hero-home { padding: 72px 0 60px; text-align: center; background: radial-gradient(120% 90% at 50% 0%, #143A63 0%, var(--bg) 70%); }
+.hero-home .wrap { display: flex; flex-direction: column; align-items: center; }
+.hero-home h1 { font-size: clamp(34px, 5.4vw, 58px); max-width: 860px; }
+.hero h1 .hl { color: var(--accent); font-style: italic; }
+.eyebrow { font: 600 12.5px var(--font); letter-spacing: .14em; text-transform: uppercase; color: var(--accent); margin-bottom: 14px; }
+.lede { color: var(--ink-2); font-size: 18px; }
+.hero-home .lede { max-width: 660px; }
+
+.hero.has-img { background: #04101E; }
+.hero-home.has-img { padding: 104px 0 88px; }
+.hero-home.has-img::after { background: linear-gradient(180deg, rgba(4,14,28,.62) 0%, rgba(4,14,28,.28) 50%, rgba(7,21,38,.95) 100%); }
+.hero-page.has-img { padding: 76px 0 58px; border-bottom: 0; }
+.hero-page.has-img::after { background: linear-gradient(90deg, rgba(4,14,28,.88) 0%, rgba(4,14,28,.62) 55%, rgba(4,14,28,.3) 100%); }
+.hero.has-img h1 { text-shadow: 0 2px 18px rgba(0,0,0,.35); }
+.hero.has-img h1 .hl { color: #F2C66B; }
+.hero.has-img .eyebrow { color: #F2C66B; }
+.hero.has-img .lede { color: rgba(255,255,255,.92); text-shadow: 0 1px 12px rgba(0,0,0,.4); }
+@media (max-width: 640px) {
+  .hero-home.has-img { padding: 60px 0 54px; }
+  .hero-page.has-img { padding: 50px 0 40px; }
+  .hero-page.has-img::after { background: rgba(4,14,28,.74); }
+}
+
+/* Search: one light card with a "Cruise region" field (added by site.js) */
+.search {
+  position: relative; width: 100%; max-width: 880px; margin-top: 30px;
+  background: #FBF8F1; border: 1px solid transparent; border-radius: 14px;
+  padding: 8px; gap: 0; box-shadow: 0 16px 44px rgba(0,0,0,.4); text-align: left;
+}
+.search:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(227,176,75,.35), 0 16px 44px rgba(0,0,0,.4); }
+.search > svg { margin: 0 12px 0 10px; color: #0E2A4D; }
+.search::before { content: "Where to sail"; position: absolute; left: 50px; top: 11px; font: 600 12px var(--font); color: #6A7586; pointer-events: none; }
+.search input { color: #0B1B2E; font-size: 16px; font-weight: 600; padding: 22px 0 6px; }
+.search input::placeholder { color: #7B8696; font-weight: 500; }
+.search .seg { display: flex; flex-direction: column; justify-content: center; align-self: stretch; border-left: 1px solid #E2DCCD; padding: 0 14px; min-width: 180px; }
+.search .seg span { font: 600 12px var(--font); color: #6A7586; }
+.search .seg select {
+  font: 600 16px var(--font); color: #0B1B2E; background: transparent; border: 0; outline: 0; padding: 2px 18px 0 0; cursor: pointer; appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%236A7586' stroke-width='3' stroke-linecap='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right center;
+}
+.search .seg select option { color: #0B1B2E; }
+.search button { font: 700 16px var(--font); background: #0E2A4D; color: #fff; border-radius: 10px; padding: 0 34px; min-height: 54px; box-shadow: none; margin-left: 8px; }
+.search button:hover { background: #163D6B; }
+@media (max-width: 640px) {
+  .search { flex-wrap: wrap; padding: 6px; }
+  .search input { flex: 1 1 60%; }
+  .search .seg { flex: 1 1 100%; order: 3; border-left: 0; border-top: 1px solid #E2DCCD; padding: 10px 12px; }
+  .search button { flex: 1 1 100%; order: 4; margin: 6px 0 0; }
+}
+.chips { justify-content: center; gap: 8px; margin-top: 18px; }
+.hero-page .chips { justify-content: flex-start; }
+.chips a { background: rgba(7,21,38,.55); color: #fff; border: 1px solid rgba(255,255,255,.28); font-weight: 600; font-size: 14px; padding: 7px 14px; backdrop-filter: blur(6px); }
+.chips a:hover { color: #0B1B2E; background: var(--accent); border-color: var(--accent); }
+
+/* Inner pages */
+.page .crumbs { background: var(--surface-2); box-shadow: 0 0 0 100vmax var(--surface-2); clip-path: inset(0 -100vmax); }
+.crumbs ol { color: var(--ink-3); }
+.crumbs a { color: var(--accent); } .crumbs a:hover { text-decoration: underline; }
+.hero-page { background: var(--surface-2); padding: 18px 0 44px; border-bottom: 1px solid var(--line); }
+.hero-page h1 { font-size: clamp(30px, 4.4vw, 48px); max-width: 860px; }
+.hero-page .search { max-width: 780px; }
+
+/* Sections */
+section h2 { font-size: clamp(25px, 3.2vw, 34px); margin-bottom: 22px; }
+.highlights, .partners, .faq, .related, .cta-band { padding: 52px 0; }
+.grid { gap: 18px; }
+
+/* "Why compare" tiles: gold porthole numbers */
+.highlights .grid { counter-reset: tile; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 28px; }
+.tile { background: none; border: 0; padding: 0 0 0 62px; position: relative; }
+.tile::before {
+  counter-increment: tile; content: counter(tile); position: absolute; left: 0; top: -2px;
+  width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center;
+  background: radial-gradient(circle at 35% 30%, #1A4372, #0E2A4D); color: var(--accent);
+  border: 2px solid var(--accent); box-shadow: inset 0 0 0 3px #0E2A4D; font: 600 18px var(--display);
+}
+.tile h3 { font-size: 19px; }
+.tile p { color: var(--ink-2); }
+
+/* Cards */
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 0 18px 18px; overflow: hidden; isolation: isolate; }
+.card::before { content: ""; display: block; height: 130px; margin: 0 -18px 12px; background: linear-gradient(160deg, #1A4E80, #0E2A4D 60%, #071526); }
+.card.has-img::before { display: none; }
+.card .card-img { width: calc(100% + 36px); margin: 0 -18px 12px; transition: transform .35s; }
+.card:hover .card-img { transform: scale(1.03); }
+.card:hover, .offer:hover { transform: translateY(-2px); border-color: rgba(227,176,75,.5); box-shadow: var(--shadow); }
+.card h3 { font-size: 19px; color: var(--ink); }
+.card p { color: var(--ink-2); font-size: 14.5px; }
+.cta { color: var(--accent); font: 700 14.5px var(--font); }
+
+/* Partner offers */
+.offer { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+.offer .cta { align-self: stretch; text-align: center; background: var(--accent); color: #0B1B2E; border-radius: 8px; padding: 11px 14px; margin-top: 10px; }
+.offer:hover .cta { background: #F2C66B; }
+.merchant { color: var(--ink-3); letter-spacing: .04em; }
+.badge { background: var(--sea); color: #04202A; border-radius: 6px; font-weight: 700; }
+.aff-note { color: var(--ink-3); } .aff-note a { color: var(--accent); }
+
+/* Article */
+.content { padding: 46px 0 16px; }
+.toc { border-left: 2px solid var(--line); }
+.toc p { font: 700 12px var(--font); letter-spacing: .08em; color: var(--ink-3); }
+.toc a { color: var(--ink-2); } .toc a:hover { color: var(--accent); }
+.prose { color: var(--ink-2); }
+.prose h2 { color: var(--ink); font-size: 28px; }
+.prose h3, .prose strong { color: var(--ink); }
+.prose a { color: var(--accent); text-underline-offset: 3px; }
+.prose a:hover { color: #F2C66B; }
+.prose ul li::marker { color: var(--accent); }
+
+/* FAQ */
+.faq details { background: none; border: 0; border-bottom: 1px solid var(--line); border-radius: 0; margin: 0; }
+.faq details:first-of-type { border-top: 1px solid var(--line); }
+.faq summary { font: 600 17px var(--font); padding: 18px 4px; }
+.faq summary:hover { color: var(--accent); }
+.faq summary::after { color: var(--accent); font-weight: 400; }
+.faq details > div { padding: 0 4px 18px; color: var(--ink-2); }
+
+/* Bottom CTA: sunset band */
+.cta-band .wrap { background: linear-gradient(120deg, #0E2A4D 0%, #1B3F6E 45%, #8A5A2B 100%); border: 1px solid rgba(227,176,75,.35); border-radius: 20px; padding: 46px 28px; }
+.cta-band h2 { color: #fff; }
+
+/* Home: cruise cards straight under the search box (visual order only; HTML order unchanged for SEO) */
+.home main { display: flex; flex-direction: column; }
+.home main > .hero { order: -2; }
+.home main > .related { order: -1; padding-top: 12px; }
+.home main > .posts { order: 0; }
+
+/* Blog */
+.posts { background: var(--surface-2); box-shadow: 0 0 0 100vmax var(--surface-2); clip-path: inset(0 -100vmax); }
+.page-blog .posts { background: none; box-shadow: none; }
+.post-card .post-meta { margin-top: 2px; }
+.sources h2 { font-size: 19px; }
+.sources li { margin-bottom: 4px; }
+.sources a, .more-link a { color: var(--accent); }
+
+/* Footer */
+.site-footer { background: #041020; border-top: 1px solid var(--line); color: var(--ink-2); margin-top: 56px; }
+.foot-cols h4 { color: var(--ink); font-size: 14px; }
+.foot-cols a:hover { color: var(--accent); }
+.foot-cols p a { color: var(--accent); }
+.disclosure { border-color: var(--line); color: var(--ink-3); }
+.empty { color: var(--ink-2); }
+:focus-visible { outline-color: var(--accent); }

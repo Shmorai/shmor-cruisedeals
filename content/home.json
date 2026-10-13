@@ -1,15 +1,102 @@
 {
+  "updated": "2026-10-13",
   "slug": "",
-  "title": "CruiseDeals: Cruise deals worldwide: ocean, river, Caribbean",
-  "description": "Cruise deals worldwide: ocean, river, Caribbean, Mediterranean and Alaska sailings compared across trusted cruise lines. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "CruiseDeals",
-  "intro": "Cruise deals worldwide: ocean, river, Caribbean, Mediterranean and Alaska sailings compared across trusted cruise lines.",
-  "related": [],
+  "title": "CruiseDeals: Compare Cruise Deals Worldwide",
+  "description": "Compare cruise deals worldwide: Caribbean, Mediterranean, Alaska, Norwegian fjords and river cruises from trusted cruise lines. Free to use, no booking fees.",
+  "eyebrow": "Ocean · River · Expedition cruises",
+  "h1": "Find your perfect cruise. Pay less for it.",
+  "h1Html": "Find your perfect cruise.<br><span class=\"hl\">Pay less for it.</span>",
+  "intro": "Compare cruise deals from trusted cruise lines and travel brands, from Caribbean sunshine to Alaska’s glaciers and Europe’s great rivers. For cruisers in the US, UK and Europe. Free to use, with no booking fees.",
+  "searchPlaceholder": "Try “Caribbean in February” or “Danube river cruise”",
+  "chips": [
+    {
+      "label": "Caribbean",
+      "slug": "caribbean-cruises"
+    },
+    {
+      "label": "Mediterranean",
+      "slug": "mediterranean-cruises"
+    },
+    {
+      "label": "Alaska",
+      "slug": "alaska-cruises"
+    },
+    {
+      "label": "River cruises",
+      "slug": "river-cruises"
+    },
+    {
+      "label": "Last minute",
+      "slug": "last-minute-cruises"
+    },
+    {
+      "label": "From Southampton",
+      "slug": "cruises-from-southampton"
+    }
+  ],
+  "image": {
+    "src": "https://images.unsplash.com/photo-1554254648-2d58a1bc3fd5",
+    "alt": "Cruise ship sailing across the open sea at sunset",
+    "credit": "Alonso Reyes",
+    "creditUrl": "https://unsplash.com/@alonsoreyes"
+  },
+  "highlightsTitle": "Why compare with CruiseDeals?",
+  "highlights": [
+    {
+      "title": "Every kind of cruise, one search",
+      "text": "Big-ship ocean cruises, intimate river voyages, luxury and expedition sailings side by side, so you can compare itineraries without twenty tabs open."
+    },
+    {
+      "title": "Book with trusted brands",
+      "text": "We point you to established cruise lines and booking sites. You book directly with them, under their terms and protections."
+    },
+    {
+      "title": "Never a booking fee",
+      "text": "CruiseDeals is free. You pay the provider’s fare. They may pay us a small commission, which keeps the site free."
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use CruiseDeals?",
-      "html": "<p>Cruise deals worldwide: ocean, river, Caribbean, Mediterranean and Alaska sailings compared across trusted cruise lines.</p>"
+      "h2": "Cruise deals for every kind of traveller",
+      "html": "<p>Whether you want a week of island-hopping in warm water, a slow journey through Europe’s historic cities by river, or a once-in-a-lifetime voyage to the ice, CruiseDeals brings the options together so you can compare them quickly.</p>\n<ul><li><a href=\"/caribbean-cruises/\">Caribbean cruises</a>: beaches, turquoise water and warm weather, especially in the northern winter.</li>\n<li><a href=\"/mediterranean-cruises/\">Mediterranean cruises</a>: history, food and a new port almost every day.</li>\n<li><a href=\"/alaska-cruises/\">Alaska cruises</a>: glaciers, wildlife and the Inside Passage in summer.</li>\n<li><a href=\"/norwegian-fjords-cruises/\">Norwegian fjords</a>: dramatic scenery, often sailing straight from the UK and northern Europe.</li>\n<li><a href=\"/river-cruises/\">River cruises</a>: small ships on the Danube, Rhine, Douro, Nile and beyond.</li>\n<li><a href=\"/luxury-cruises/\">Luxury</a>, <a href=\"/family-cruises/\">family</a> and <a href=\"/expedition-cruises/\">expedition</a> cruises for every style and budget.</li></ul>"
+    },
+    {
+      "h2": "How to spot a genuinely good cruise deal",
+      "html": "<ul><li><strong>Compare the total cost.</strong> The headline fare rarely includes everything. Check port taxes and fees, gratuities or service charges, drinks, Wi‑Fi and excursions.</li>\n<li><strong>Compare like for like.</strong> An inside cabin and a balcony cabin on the same sailing can differ a lot in price. Compare the same cabin grade, dates and itinerary.</li>\n<li><strong>Look at what’s included.</strong> Some fares bundle drinks, Wi‑Fi, gratuities or onboard credit. A slightly higher fare can be better value overall.</li>\n<li><strong>Be flexible on dates.</strong> Sailings outside school holidays and peak season are often cheaper and less crowded.</li>\n<li><strong>Factor in getting to the port.</strong> Flights, hotels and parking add up. A cruise from a port near home can beat a cheaper fare that needs a flight. See <a href=\"/cruises-from-southampton/\">cruises from Southampton</a>.</li></ul>"
+    },
+    {
+      "h2": "Cruising from the US, UK or Europe",
+      "html": "<p>CruiseDeals is built for cruisers on both sides of the Atlantic. Many US travellers sail from Florida, Texas, Seattle or New York. UK cruisers can sail straight from Southampton and other British ports, or take a fly-cruise to the Mediterranean or Caribbean. European cruisers have home ports from Barcelona and Genoa to Hamburg and Copenhagen.</p>\n<p>Protection differs by country. In the UK, a cruise sold together with flights may be covered by ATOL, and many cruise packages fall under the Package Travel Regulations. In the EU, the Package Travel Directive covers many cruise packages. In the US, your protection depends on the cruise line’s terms and how you pay, so travel insurance is worth considering wherever you live. Always check entry rules for every country on your itinerary, not just the port you sail from.</p>"
     }
-  ]
+  ],
+  "faqs": [
+    {
+      "q": "Is CruiseDeals a travel agent or cruise line?",
+      "a": "No. CruiseDeals is a free comparison and discovery site. When you choose a cruise, you book directly with the cruise line or booking site, under their terms."
+    },
+    {
+      "q": "Does it cost anything to use CruiseDeals?",
+      "a": "No. CruiseDeals is free and never adds a booking fee. Some links are affiliate links, so the provider may pay us a commission when you book. This doesn’t change your fare."
+    },
+    {
+      "q": "Are cruise fares all-inclusive?",
+      "a": "Usually not completely. Most fares include your cabin, main meals and much of the entertainment, but drinks, specialty restaurants, Wi‑Fi, excursions and gratuities are often extra. Check what each fare includes before you compare prices."
+    },
+    {
+      "q": "When is the best time to book a cruise?",
+      "a": "Booking early usually gives the most choice of cabins and dates, especially for school holidays and popular itineraries. Cruise lines also run promotions throughout the year, and some unsold cabins are discounted closer to sailing. See our guides to <a href=\"/last-minute-cruises/\">last-minute cruises</a> and <a href=\"/blog/wave-season-cruise-deals/\">wave season</a>."
+    }
+  ],
+  "related": [
+    "caribbean-cruises",
+    "mediterranean-cruises",
+    "alaska-cruises",
+    "river-cruises",
+    "norwegian-fjords-cruises",
+    "cruise-destinations"
+  ],
+  "relatedTitle": "Start exploring",
+  "ctaTitle": "Where would you like to sail?",
+  "latestPosts": 3,
+  "latestTitle": "Latest cruise news and guides"
 }

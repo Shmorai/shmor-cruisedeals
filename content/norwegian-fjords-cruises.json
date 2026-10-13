@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-13",
+  "slug": "norwegian-fjords-cruises",
+  "nav": "Fjords",
+  "title": "Norwegian Fjords Cruises: Compare Deals & Ports",
+  "description": "Compare Norwegian fjords cruise deals: Geiranger, Flåm, Bergen and more. When to go, northern lights voyages and cruises from Southampton and northern Europe.",
+  "keywords": [
+    "norwegian fjords cruise",
+    "norway cruise",
+    "fjords cruise",
+    "northern lights cruise",
+    "geiranger cruise",
+    "flam cruise",
+    "bergen cruise",
+    "norwegian fjords from southampton"
+  ],
+  "cardText": "Waterfalls, mountain walls and Bergen’s harbour: fjord cruises and northern lights voyages.",
+  "eyebrow": "Ocean cruises",
+  "h1": "Norwegian fjords cruises",
+  "intro": "Sheer mountain walls, waterfalls and tiny villages at the water’s edge. Compare Norwegian fjords cruise deals, including sailings straight from the UK and northern Europe.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1518634475198-821cf854c826",
+    "alt": "Cruise ship sailing through a Norwegian fjord below steep mountains",
+    "credit": "Vidar Nordli-Mathisen",
+    "creditUrl": "https://unsplash.com/@vidarnm"
+  },
+  "searchPlaceholder": "Search Norway cruises…",
+  "sections": [
+    {
+      "h2": "Where fjord cruises go",
+      "html": "<p>Classic fjord itineraries call at a mix of scenic fjords and harbour towns. Common stops include:</p><ul><li><strong>Geiranger</strong> and <strong>Hellesylt</strong>: the Geirangerfjord, famous for its waterfalls and part of the West Norwegian Fjords UNESCO World Heritage Site.</li>\n<li><strong>Flåm</strong>: on the Aurlandsfjord, a branch of the Sognefjord, and the start of the Flåm Railway.</li>\n<li><strong>Bergen</strong>: the historic Bryggen wharf and a funicular to Mount Fløyen.</li>\n<li><strong>Ålesund</strong>, <strong>Stavanger</strong> and <strong>Olden</strong>: Art Nouveau streets, Pulpit Rock hikes and glacier valleys.</li></ul>"
+    },
+    {
+      "h2": "When to cruise the fjords",
+      "html": "<p>The main fjord season runs roughly from <strong>May to September</strong>, with the longest days around midsummer. Late spring brings full waterfalls fed by snowmelt. Some ships sail along Norway’s coast into the Arctic in autumn and winter, roughly from September to March, offering a chance to see the <strong>northern lights</strong>. Sightings depend on solar activity and clear skies, so they can never be guaranteed.</p>"
+    },
+    {
+      "h2": "Cruises to Norway from the UK and Europe",
+      "html": "<p>Norway is one of the easiest cruise destinations to reach without flying. Many sailings leave from <a href=\"/cruises-from-southampton/\">Southampton</a> and other UK ports such as Dover, Newcastle and Liverpool, as well as from Hamburg, Amsterdam, Copenhagen and Kiel. US cruisers usually fly to one of these ports or to a Norwegian city such as Bergen.</p>"
+    },
+    {
+      "h2": "Tips for a fjords cruise",
+      "html": "<ul><li>Norway can be expensive ashore. Budget for food and excursions, or plan free walks.</li>\n<li>Scenic sailing in and out of fjords often happens early or late in the day, so check the timings.</li>\n<li>Pack layers and a waterproof jacket, even in summer.</li>\n<li>Norway is in the Schengen area, so check current entry rules. See our <a href=\"/blog/cruise-entry-rules-ees-etias-uk-eta/\">entry rules guide</a>.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best month to cruise the Norwegian fjords?",
+      "a": "June to August gives the longest days and mildest weather. May has full waterfalls and fewer crowds. September is quieter again, with autumn colours."
+    },
+    {
+      "q": "Can I see the northern lights on a fjords cruise?",
+      "a": "Not usually on a summer fjords cruise, because the nights are too light. Northern lights voyages sail along the Norwegian coast in autumn and winter. Sightings depend on the weather and solar activity."
+    },
+    {
+      "q": "How long is a Norwegian fjords cruise from the UK?",
+      "a": "Many are around seven nights, with two or so sea days crossing the North Sea. Longer sailings may add the Arctic Circle or northern Norway."
+    }
+  ],
+  "related": [
+    "cruises-from-southampton",
+    "alaska-cruises",
+    "expedition-cruises",
+    "blog/what-to-pack-for-a-cruise"
+  ]
+}

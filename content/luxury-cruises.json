@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-13",
+  "slug": "luxury-cruises",
+  "nav": "Luxury",
+  "title": "Luxury Cruises: Compare Small-Ship Cruise Deals",
+  "description": "Compare luxury cruise deals: small ships, all-suite accommodation, inclusive fares and unusual ports. What luxury cruise lines include and how to judge value.",
+  "keywords": [
+    "luxury cruises",
+    "luxury cruise deals",
+    "small ship cruises",
+    "all inclusive cruise",
+    "suite cruise",
+    "adults only cruise",
+    "premium cruise",
+    "boutique cruise"
+  ],
+  "cardText": "Small ships, suites and inclusive fares: what luxury cruising includes and how to judge value.",
+  "eyebrow": "Cruise styles",
+  "h1": "Luxury cruises",
+  "intro": "Fewer passengers, more space and more included. Compare luxury cruise deals and learn what you’re really paying for.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13",
+    "alt": "Sleek white and black luxury ship at sea",
+    "credit": "Viktor Ritsvall",
+    "creditUrl": "https://unsplash.com/@ritsvall"
+  },
+  "searchPlaceholder": "Search luxury cruises…",
+  "sections": [
+    {
+      "h2": "What makes a cruise “luxury”?",
+      "html": "<ul><li><strong>Smaller ships:</strong> often a few hundred guests rather than several thousand, with fewer queues and more personal service.</li>\n<li><strong>More space:</strong> many luxury ships are all-suite, often with a balcony.</li>\n<li><strong>More included:</strong> fares commonly include drinks, gratuities and Wi‑Fi, and sometimes excursions, specialty dining or flights.</li>\n<li><strong>Different ports:</strong> smaller ships can reach harbours and overnight stays big ships can’t.</li></ul>"
+    },
+    {
+      "h2": "Is a luxury cruise worth it?",
+      "html": "<p>The upfront fare is higher, but the gap can shrink once you add the extras a mainstream cruise charges for: drinks packages, gratuities, Wi‑Fi, specialty restaurants and excursions. Make a quick list of what you’d buy on a mainstream ship and compare the true total.</p><p>Luxury lines also differ: some are formal and traditional, others relaxed and casual, and some focus on <a href=\"/expedition-cruises/\">expedition voyages</a>. Choose the style that suits you, not just the price.</p>"
+    },
+    {
+      "h2": "Premium, luxury or ultra-luxury?",
+      "html": "<p>Cruise lines are often grouped as mainstream, premium, luxury and ultra-luxury, although there’s no official definition. Premium lines sit in between, with more refined dining and service than mainstream ships but fewer inclusions than true luxury lines. Compare what each fare actually includes rather than relying on the label.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are luxury cruises all-inclusive?",
+      "a": "Many luxury lines include drinks, gratuities and Wi‑Fi, and some add excursions, specialty dining or flights. Inclusions vary, so check each fare carefully."
+    },
+    {
+      "q": "Are luxury cruises adults only?",
+      "a": "Not always, but most luxury ships have few facilities for children, so the atmosphere tends to be adult-focused. Some lines are adults-only by policy."
+    },
+    {
+      "q": "Is there a dress code on luxury cruises?",
+      "a": "It depends on the line. Some keep formal nights, while many have moved to “elegant casual”. Your cruise line will publish its dress code."
+    }
+  ],
+  "related": [
+    "expedition-cruises",
+    "river-cruises",
+    "mediterranean-cruises",
+    "blog/christmas-new-year-cruises"
+  ]
+}

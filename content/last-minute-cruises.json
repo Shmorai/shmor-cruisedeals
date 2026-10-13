@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-13",
+  "slug": "last-minute-cruises",
+  "nav": "Last minute",
+  "navOrder": 5,
+  "title": "Last-Minute Cruises: How to Find Late Deals",
+  "description": "How to find last-minute cruise deals: when unsold cabins get discounted, guarantee cabins, flexible ports and the costs to check before booking a late cruise.",
+  "keywords": [
+    "last minute cruises",
+    "last minute cruise deals",
+    "late cruise deals",
+    "cheap cruises",
+    "cruise deals this month",
+    "guarantee cabin",
+    "cheap cruise deals"
+  ],
+  "cardText": "Flexible and ready to sail? How late cruise deals work and what to check first.",
+  "eyebrow": "Cruise deals",
+  "h1": "Last-minute cruises",
+  "intro": "If you can travel at short notice, a last-minute cruise can be good value. Here’s how late deals work, where to find them and what to check before you book.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1599640842225-85d111c60e6b",
+    "alt": "Cruise ship anchored off a sunny beach with clear turquoise water",
+    "credit": "Georgy Trofimov",
+    "creditUrl": "https://unsplash.com/@igoshka1989"
+  },
+  "searchPlaceholder": "Search last-minute cruises…",
+  "sections": [
+    {
+      "h2": "Why last-minute cruise deals happen",
+      "html": "<p>A ship sails whether it’s full or not, so cruise lines would rather sell a cabin at a lower fare than leave it empty. Once the final payment deadline passes, which is typically some weeks or months before sailing, lines know exactly what’s unsold and may cut fares or add perks.</p><p>Late deals aren’t guaranteed, though. Popular sailings, school-holiday dates and the best cabins often sell out early, so last-minute booking works best if you’re flexible.</p>"
+    },
+    {
+      "h2": "How to find a good last-minute cruise",
+      "html": "<ul><li><strong>Be flexible on itinerary and dates.</strong> The more destinations you’ll consider, the more deals you’ll see.</li>\n<li><strong>Look at sailings from a port near you.</strong> Short-notice flights can wipe out the saving. UK cruisers can look at <a href=\"/cruises-from-southampton/\">cruises from Southampton</a>, and US cruisers at drive-to ports.</li>\n<li><strong>Consider a guarantee cabin.</strong> You book a cabin grade and the line assigns the exact cabin later, sometimes at a lower fare. You can’t choose its location.</li>\n<li><strong>Compare the total cost.</strong> Add gratuities, drinks, Wi‑Fi and travel to the port before deciding a deal is cheap.</li>\n<li><strong>Have documents ready.</strong> Check passport validity and any visas or travel authorisations, which can take time.</li></ul>"
+    },
+    {
+      "h2": "Check before you book",
+      "html": "<p>Late bookings usually need full payment straight away and are often non-refundable, so buy travel insurance at the time you book. Check whether the fare includes flights and transfers, and whether the package is ATOL protected if you’re booking a fly-cruise in the UK.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How late can you book a cruise?",
+      "a": "Some lines take bookings until a few days before sailing, subject to availability and time to complete check-in and travel documents. The closer you get, the less choice there is."
+    },
+    {
+      "q": "Are last-minute cruises always cheaper?",
+      "a": "No. Popular sailings can get more expensive as they fill up. Last-minute deals are most common on less busy dates and itineraries."
+    },
+    {
+      "q": "What is a guarantee cabin?",
+      "a": "You book a cabin category, such as balcony, and the cruise line assigns the specific cabin later. It can be cheaper, but you can’t choose the location and it may be assigned close to sailing."
+    }
+  ],
+  "related": [
+    "caribbean-cruises",
+    "cruises-from-southampton",
+    "first-time-cruise-guide",
+    "blog/wave-season-cruise-deals"
+  ]
+}

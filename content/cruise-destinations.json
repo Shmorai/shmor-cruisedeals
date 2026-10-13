@@ -1,0 +1,60 @@
+{
+  "updated": "2026-10-13",
+  "slug": "cruise-destinations",
+  "nav": "Destinations",
+  "navOrder": 6,
+  "title": "Cruise Destinations: Where to Cruise & When",
+  "description": "Where to cruise and when: the Caribbean, Mediterranean, Alaska, Norwegian fjords, rivers and polar regions, with the best seasons for each cruise destination.",
+  "keywords": [
+    "cruise destinations",
+    "where to cruise",
+    "best time to cruise",
+    "cruise regions",
+    "best cruise destinations",
+    "cruise calendar",
+    "when to cruise"
+  ],
+  "cardText": "The world’s great cruise regions and the best months to sail each one.",
+  "eyebrow": "Cruise destinations",
+  "h1": "Cruise destinations: where to sail and when",
+  "intro": "Every cruise region has its season. Use this guide to match where you want to go with the best time to sail there.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1548574505-5e239809ee19",
+    "alt": "Aerial view of several cruise ships docked at a turquoise harbour",
+    "credit": "Fernando Jorge",
+    "creditUrl": "https://unsplash.com/@fx24"
+  },
+  "searchPlaceholder": "Search cruise destinations…",
+  "sections": [
+    {
+      "h2": "Cruise regions at a glance",
+      "html": "<ul><li><a href=\"/caribbean-cruises/\">Caribbean</a>: all year; most popular from December to April. Hurricane season runs 1 June to 30 November.</li>\n<li><a href=\"/mediterranean-cruises/\">Mediterranean</a>: mainly spring to autumn; shoulder months are quieter.</li>\n<li><a href=\"/alaska-cruises/\">Alaska</a>: roughly May to September.</li>\n<li><a href=\"/norwegian-fjords-cruises/\">Norwegian fjords</a>: roughly May to September; northern lights voyages in autumn and winter.</li>\n<li><a href=\"/river-cruises/\">European rivers</a>: spring to autumn, plus Christmas markets in late November and December.</li>\n<li><strong>Canary Islands and Madeira</strong>: popular in autumn and winter for mild weather. Many sail from <a href=\"/cruises-from-southampton/\">Southampton</a>.</li>\n<li><a href=\"/expedition-cruises/\">Antarctica</a>: roughly November to March. The Arctic: roughly June to September.</li>\n<li><strong>Asia and Australia</strong>: seasons vary by region; Australia’s main cruise season is its summer, roughly October to April.</li></ul>"
+    },
+    {
+      "h2": "Repositioning cruises",
+      "html": "<p>Twice a year, many ships move between regions, for example from the Mediterranean to the Caribbean in autumn and back in spring. These one-way <strong>repositioning cruises</strong> often have lots of sea days and can be good value per night, but check the cost of the one-way flight home.</p>"
+    },
+    {
+      "h2": "How to choose a destination",
+      "html": "<ul><li>Decide what matters most: beaches, culture, scenery, wildlife or the ship itself.</li>\n<li>Count the sea days: some people love them, others prefer a port every day.</li>\n<li>Factor in travel to the port, especially for long-haul fly-cruises.</li>\n<li>Check entry requirements for every country on the route.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is the best place to cruise in winter?",
+      "a": "For warmth, the Caribbean, Canary Islands, Mexico and Australia are popular in the northern winter. For something different, try a northern lights voyage along Norway’s coast or an Antarctic expedition."
+    },
+    {
+      "q": "Where should I go on my first cruise?",
+      "a": "The Caribbean and the Mediterranean are classic first cruises, with plenty of ships and itineraries. A short cruise is a good way to try cruising before committing to a longer trip."
+    }
+  ],
+  "related": [
+    "caribbean-cruises",
+    "mediterranean-cruises",
+    "alaska-cruises",
+    "norwegian-fjords-cruises",
+    "river-cruises",
+    "expedition-cruises"
+  ]
+}

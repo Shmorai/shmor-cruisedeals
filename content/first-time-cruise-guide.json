@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-13",
+  "slug": "first-time-cruise-guide",
+  "nav": "First cruise",
+  "title": "First Cruise Guide: What’s Included & Tips",
+  "description": "Planning your first cruise? What the fare includes, cabin types, extra costs, gratuities, embarkation day and practical tips for first-time cruisers.",
+  "keywords": [
+    "first cruise",
+    "first time cruise tips",
+    "cruise tips",
+    "what is included in a cruise",
+    "cruise cabin types",
+    "balcony cabin",
+    "cruise gratuities",
+    "cruise packing",
+    "embarkation day"
+  ],
+  "cardText": "What’s included, which cabin to choose and the extra costs to expect on your first cruise.",
+  "eyebrow": "Cruise guides",
+  "h1": "Your first cruise: what to know before you book",
+  "intro": "New to cruising? Here’s what the fare includes, which cabin to choose, the extra costs to budget for and how embarkation day works.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1516495312540-a148643b22d3",
+    "alt": "View along the side of a cruise ship looking out to sea",
+    "credit": "Sheila Jellison",
+    "creditUrl": "https://unsplash.com/@mimaworld"
+  },
+  "searchPlaceholder": "Search cruise guides…",
+  "sections": [
+    {
+      "h2": "What a cruise fare usually includes",
+      "html": "<ul><li>Your cabin, and travel between ports.</li>\n<li>Meals in the main dining room and buffet, plus some snacks.</li>\n<li>Basic drinks such as water, tea, coffee and juice at breakfast.</li>\n<li>Most entertainment, pools, gyms and kids’ clubs.</li></ul><p><strong>Often extra:</strong> alcoholic and soft drinks (or a drinks package), specialty restaurants, Wi‑Fi, shore excursions, spa treatments, and gratuities or a daily service charge. Port taxes and fees may be shown separately from the headline fare.</p>"
+    },
+    {
+      "h2": "Choosing a cabin",
+      "html": "<ul><li><strong>Inside:</strong> no window and the cheapest option. Fine if you’ll mostly be out and about.</li>\n<li><strong>Oceanview:</strong> a window or porthole that doesn’t open.</li>\n<li><strong>Balcony:</strong> your own outdoor space. Great for scenic routes like <a href=\"/alaska-cruises/\">Alaska</a> and the <a href=\"/norwegian-fjords-cruises/\">fjords</a>.</li>\n<li><strong>Suite:</strong> more space, and often perks such as priority boarding or a dedicated restaurant.</li></ul><p>Mid-ship cabins on lower decks tend to feel the least motion, which helps if you’re worried about seasickness.</p>"
+    },
+    {
+      "h2": "Gratuities and service charges",
+      "html": "<p>Many cruise lines add a daily service charge or gratuity per guest to your onboard account. Others include gratuities in the fare, and the approach often differs between US and UK-focused lines. Check your line’s policy so you can budget for it.</p>"
+    },
+    {
+      "h2": "Embarkation day and onboard tips",
+      "html": "<ul><li>Complete online check-in before you travel and follow your arrival time slot.</li>\n<li>Keep medication, documents and swimwear in a day bag, as your main luggage may arrive at your cabin later.</li>\n<li>Attend the mandatory safety briefing (muster drill), which may be done partly on an app or TV.</li>\n<li>Always be back onboard by the stated time in port: ships won’t wait for late passengers on independent tours.</li>\n<li>Read our <a href=\"/blog/what-to-pack-for-a-cruise/\">cruise packing guide</a> before you sail.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will I get seasick on a cruise?",
+      "a": "Modern ships have stabilisers and most people feel little motion, especially on calm routes such as the Caribbean or rivers. If you’re worried, choose a mid-ship cabin on a lower deck and pack a remedy."
+    },
+    {
+      "q": "How much spending money do I need for a cruise?",
+      "a": "It depends on your drinks, excursions, Wi‑Fi and gratuities. Look up your line’s prices for these before you sail and set a daily budget."
+    },
+    {
+      "q": "Is a drinks package worth it?",
+      "a": "It depends on how much you drink. Add up what you’d buy on a typical day at the line’s prices and compare it with the daily package cost, remembering that packages usually apply to everyone in the cabin."
+    }
+  ],
+  "related": [
+    "family-cruises",
+    "last-minute-cruises",
+    "blog/what-to-pack-for-a-cruise",
+    "river-cruises"
+  ]
+}

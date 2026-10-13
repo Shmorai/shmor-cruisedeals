@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-13",
+  "slug": "family-cruises",
+  "nav": "Family",
+  "title": "Family Cruises: Compare Kid-Friendly Cruise Deals",
+  "description": "Compare family cruise deals: kids’ clubs, family cabins, the best itineraries for children, minimum ages and tips for cruising with babies, kids and teenagers.",
+  "keywords": [
+    "family cruises",
+    "family cruise deals",
+    "cruises for kids",
+    "kid friendly cruises",
+    "cruise with toddler",
+    "cruise with baby",
+    "school holiday cruises",
+    "family cruise vacation"
+  ],
+  "cardText": "Kids’ clubs, waterparks and connecting cabins: how to choose a cruise the whole family will love.",
+  "eyebrow": "Cruise styles",
+  "h1": "Family cruises",
+  "intro": "Unpack once, visit several places and keep everyone entertained. Compare family cruise deals and learn what to check when cruising with children.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1590761397801-2ff9a6461c49",
+    "alt": "Sunny pool deck with blue loungers on a cruise ship",
+    "credit": "TravelPriceWatch",
+    "creditUrl": "https://unsplash.com/@travelpricewatch"
+  },
+  "searchPlaceholder": "Search family cruises…",
+  "sections": [
+    {
+      "h2": "Why families love cruising",
+      "html": "<ul><li>Meals, entertainment and many activities are included in the fare, which makes budgeting easier.</li>\n<li>Kids’ clubs, usually split by age group, give children their own fun and parents some time off.</li>\n<li>Big ships can have waterslides, splash zones, climbing walls and family shows.</li>\n<li>You visit several places without repacking or long car journeys.</li></ul>"
+    },
+    {
+      "h2": "Choosing the right family cruise",
+      "html": "<ul><li><strong>Pick the right ship:</strong> facilities for children vary hugely, even within the same cruise line. Smaller, adult-focused ships and most river cruises have few.</li>\n<li><strong>Check age policies:</strong> many lines set a minimum age for babies, often six months, and higher on some longer voyages. Kids’ clubs may also have minimum ages and nappy rules.</li>\n<li><strong>Plan the cabin:</strong> look for family cabins, sofa beds, or connecting cabins. Check how many people each cabin really sleeps.</li>\n<li><strong>Think about port days:</strong> short, easy itineraries such as the Bahamas, the Mediterranean or the Canaries suit younger children.</li></ul>"
+    },
+    {
+      "h2": "Cruising in the school holidays",
+      "html": "<p>School-holiday sailings sell out first and fares are usually higher, so book early for those dates. If you’re in the UK, sailing from <a href=\"/cruises-from-southampton/\">Southampton</a> avoids flight costs for the whole family. US families often choose short <a href=\"/caribbean-cruises/\">Caribbean and Bahamas</a> cruises from Florida.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age can a baby go on a cruise?",
+      "a": "Many cruise lines set a minimum age of six months, rising to around 12 months on some longer or transoceanic voyages. Policies differ, so check with the line before booking."
+    },
+    {
+      "q": "Do kids cruise free?",
+      "a": "Some lines run promotions where third and fourth guests in a cabin sail free or at a reduced fare, but taxes and fees usually still apply. These offers vary, so read the terms."
+    },
+    {
+      "q": "Are kids’ clubs included in the fare?",
+      "a": "Daytime kids’ clubs are usually included. Some lines charge for late-night group babysitting or certain activities. Check the details for your ship."
+    }
+  ],
+  "related": [
+    "caribbean-cruises",
+    "first-time-cruise-guide",
+    "cruises-from-southampton",
+    "blog/what-to-pack-for-a-cruise"
+  ]
+}
