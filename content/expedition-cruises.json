@@ -62,5 +62,48 @@
     "alaska-cruises",
     "norwegian-fjords-cruises",
     "blog/what-to-pack-for-a-cruise"
+  ],
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Ways to save on an expedition cruise",
+      "intro": "Real cruise offers take a few common forms. Here’s how each works and where to look.",
+      "more": {
+        "title": "All ways to save",
+        "slug": "cruise-deals"
+      },
+      "items": [
+        {
+          "icon": "calendar",
+          "badge": "Jan–Mar",
+          "title": "Wave season offers",
+          "text": "Early-year promotions often add perks such as onboard credit, drinks or reduced deposits.",
+          "slug": "blog/wave-season-cruise-deals",
+          "cta": "How wave season works"
+        },
+        {
+          "icon": "user",
+          "badge": "Solo",
+          "title": "Solo cruise deals",
+          "text": "Look for studio cabins or reduced single supplements if you’re travelling on your own.",
+          "slug": "cruise-deals",
+          "cta": "Solo cruising tips"
+        },
+        {
+          "icon": "wine",
+          "title": "Inclusive fares",
+          "text": "Luxury and river cruises often include drinks, gratuities and excursions. Compare the true total.",
+          "slug": "luxury-cruises",
+          "cta": "What’s included"
+        },
+        {
+          "icon": "wallet",
+          "title": "Onboard credit & perks",
+          "text": "Some fares include credit to spend onboard, Wi‑Fi, gratuities or drinks. Value the extras honestly.",
+          "slug": "cruise-deals",
+          "cta": "Compare perks"
+        }
+      ]
+    }
   ]
 }

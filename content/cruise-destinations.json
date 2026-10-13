@@ -56,5 +56,59 @@
     "norwegian-fjords-cruises",
     "river-cruises",
     "expedition-cruises"
+  ],
+  "blocks": [
+    {
+      "type": "tiles",
+      "title": "Explore cruise regions",
+      "items": [
+        {
+          "slug": "caribbean-cruises",
+          "title": "Caribbean",
+          "badge": "Winter sun",
+          "text": "Beaches, reefs and island-hopping in warm water."
+        },
+        {
+          "slug": "mediterranean-cruises",
+          "title": "Mediterranean",
+          "badge": "Spring–autumn"
+        },
+        {
+          "slug": "greek-islands-cruises",
+          "title": "Greek islands",
+          "badge": "Summer"
+        },
+        {
+          "slug": "alaska-cruises",
+          "title": "Alaska",
+          "badge": "May–Sept"
+        },
+        {
+          "slug": "norwegian-fjords-cruises",
+          "title": "Norwegian fjords",
+          "badge": "Summer"
+        },
+        {
+          "slug": "canary-islands-cruises",
+          "title": "Canary Islands",
+          "badge": "Winter sun"
+        },
+        {
+          "slug": "river-cruises",
+          "title": "River cruises",
+          "badge": "Europe & Nile"
+        },
+        {
+          "slug": "expedition-cruises",
+          "title": "Expedition & polar",
+          "badge": "Adventure"
+        },
+        {
+          "slug": "cruises-from-southampton",
+          "title": "No-fly from the UK",
+          "badge": "Southampton"
+        }
+      ]
+    }
   ]
 }

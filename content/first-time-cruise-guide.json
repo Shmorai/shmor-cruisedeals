@@ -63,5 +63,48 @@
     "last-minute-cruises",
     "blog/what-to-pack-for-a-cruise",
     "river-cruises"
+  ],
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Ways to save on your first cruise",
+      "intro": "Real cruise offers take a few common forms. Here’s how each works and where to look.",
+      "more": {
+        "title": "All ways to save",
+        "slug": "cruise-deals"
+      },
+      "items": [
+        {
+          "icon": "clock",
+          "badge": "Flexible dates",
+          "title": "Last-minute cruises",
+          "text": "Unsold cabins close to sailing can be discounted. Best if you can travel at short notice.",
+          "slug": "last-minute-cruises",
+          "cta": "Last-minute tips"
+        },
+        {
+          "icon": "calendar",
+          "badge": "Jan–Mar",
+          "title": "Wave season offers",
+          "text": "Early-year promotions often add perks such as onboard credit, drinks or reduced deposits.",
+          "slug": "blog/wave-season-cruise-deals",
+          "cta": "How wave season works"
+        },
+        {
+          "icon": "wallet",
+          "title": "Onboard credit & perks",
+          "text": "Some fares include credit to spend onboard, Wi‑Fi, gratuities or drinks. Value the extras honestly.",
+          "slug": "cruise-deals",
+          "cta": "Compare perks"
+        },
+        {
+          "icon": "tag",
+          "title": "Guarantee cabins",
+          "text": "Book a cabin grade and let the line choose the exact cabin, sometimes for a lower fare.",
+          "slug": "last-minute-cruises",
+          "cta": "How guarantees work"
+        }
+      ]
+    }
   ]
 }

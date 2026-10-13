@@ -63,5 +63,48 @@
     "norwegian-fjords-cruises",
     "first-time-cruise-guide",
     "blog/what-to-pack-for-a-cruise"
+  ],
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Ways to save on Alaska cruises",
+      "intro": "Real cruise offers take a few common forms. Here’s how each works and where to look.",
+      "more": {
+        "title": "All ways to save",
+        "slug": "cruise-deals"
+      },
+      "items": [
+        {
+          "icon": "calendar",
+          "badge": "Jan–Mar",
+          "title": "Wave season offers",
+          "text": "Early-year promotions often add perks such as onboard credit, drinks or reduced deposits.",
+          "slug": "blog/wave-season-cruise-deals",
+          "cta": "How wave season works"
+        },
+        {
+          "icon": "wallet",
+          "title": "Onboard credit & perks",
+          "text": "Some fares include credit to spend onboard, Wi‑Fi, gratuities or drinks. Value the extras honestly.",
+          "slug": "cruise-deals",
+          "cta": "Compare perks"
+        },
+        {
+          "icon": "tag",
+          "title": "Guarantee cabins",
+          "text": "Book a cabin grade and let the line choose the exact cabin, sometimes for a lower fare.",
+          "slug": "last-minute-cruises",
+          "cta": "How guarantees work"
+        },
+        {
+          "icon": "users",
+          "badge": "Families",
+          "title": "Kids sail free or reduced",
+          "text": "Some sailings offer free or reduced fares for third and fourth guests in a cabin. Taxes usually still apply.",
+          "slug": "family-cruises",
+          "cta": "Family cruise guide"
+        }
+      ]
+    }
   ]
 }

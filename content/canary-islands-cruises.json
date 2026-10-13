@@ -1,0 +1,110 @@
+{
+  "updated": "2026-10-13",
+  "slug": "canary-islands-cruises",
+  "nav": "Canary Islands",
+  "title": "Canary Islands Cruises: Winter Sun at Sea",
+  "description": "Compare Canary Islands cruise deals: Tenerife, Gran Canaria, Lanzarote and Madeira. No-fly cruises from Southampton and fly-cruises.",
+  "keywords": [
+    "canary islands cruise",
+    "canary islands cruises",
+    "canaries cruise",
+    "tenerife cruise",
+    "gran canaria cruise",
+    "lanzarote cruise",
+    "madeira cruise",
+    "winter sun cruise",
+    "atlantic islands cruise"
+  ],
+  "cardText": "Winter sunshine in Tenerife, Gran Canaria and Lanzarote, often with Madeira, by fly-cruise or straight from the UK.",
+  "eyebrow": "Ocean cruises",
+  "h1": "Canary Islands cruises",
+  "intro": "Mild winters, volcanic landscapes and black-sand beaches. Compare Canary Islands cruise deals, from no-fly sailings out of the UK to fly-cruises based in the islands.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1605182054023-17d71f44aa11",
+    "alt": "Golden beach and harbour below green mountains on the coast of Tenerife",
+    "credit": "Maxim Berg",
+    "creditUrl": "https://unsplash.com/@maxberg"
+  },
+  "searchPlaceholder": "Search Canary Islands cruises…",
+  "sections": [
+    {
+      "h2": "Where Canary Islands cruises call",
+      "html": "<ul><li><strong>Tenerife</strong> (Santa Cruz): the gateway to Mount Teide National Park.</li>\n<li><strong>Gran Canaria</strong> (Las Palmas): a lively city with a long urban beach.</li>\n<li><strong>Lanzarote</strong> (Arrecife): volcanic scenery, including Timanfaya National Park.</li>\n<li><strong>La Palma</strong> and <strong>Fuerteventura</strong>: quieter islands on some itineraries.</li>\n<li><strong>Madeira</strong> (Funchal, Portugal): often paired with the Canaries, known for its gardens and its New Year’s Eve fireworks.</li>\n<li>Longer itineraries may also call at Lisbon, Cádiz (for Seville) or ports in Morocco.</li></ul>"
+    },
+    {
+      "h2": "When to cruise the Canary Islands",
+      "html": "<p>The Canary Islands have a mild climate all year, which makes them one of the most popular <strong>winter-sun</strong> cruise regions for UK and European travellers, roughly from autumn to spring. Many ships move to the Canaries for the northern winter, when the Mediterranean is cooler and quieter.</p>"
+    },
+    {
+      "h2": "No-fly or fly-cruise?",
+      "html": "<p><strong>From the UK:</strong> round trips from <a href=\"/cruises-from-southampton/\">Southampton</a> and other UK ports usually take around two weeks, including several sea days crossing the Bay of Biscay, which can be rough in winter.</p><p><strong>Fly-cruise:</strong> some ships sail round trips from Tenerife or Gran Canaria in winter, so you can fly out and spend almost every day in port. US travellers usually combine a Canaries cruise with a European trip or a transatlantic crossing.</p>"
+    },
+    {
+      "h2": "Tips for a Canary Islands cruise",
+      "html": "<ul><li>Pack layers: it’s warm by day, but evenings at sea and the Bay of Biscay can be cool.</li>\n<li>Book popular trips such as Mount Teide early, as they can sell out.</li>\n<li>The Canary Islands are part of Spain and the Schengen area, so check current <a href=\"/blog/cruise-entry-rules-ees-etias-uk-eta/\">entry rules</a>.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best month for a Canary Islands cruise?",
+      "a": "The islands are mild all year. Cruises are most popular from autumn to spring, when they offer winter sun compared with northern Europe."
+    },
+    {
+      "q": "How long is a Canary Islands cruise from Southampton?",
+      "a": "Many are around 12 to 14 nights, including several days at sea each way."
+    },
+    {
+      "q": "Is the Bay of Biscay rough?",
+      "a": "It can be, especially in winter. Modern ships have stabilisers, but if you’re prone to seasickness, pack a remedy and choose a mid-ship cabin on a lower deck, or consider a fly-cruise."
+    }
+  ],
+  "related": [
+    "cruises-from-southampton",
+    "mediterranean-cruises",
+    "blog/christmas-new-year-cruises",
+    "last-minute-cruises"
+  ],
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Ways to save on Canary Islands cruises",
+      "intro": "Real cruise offers take a few common forms. Here’s how each works and where to look.",
+      "more": {
+        "title": "All ways to save",
+        "slug": "cruise-deals"
+      },
+      "items": [
+        {
+          "icon": "anchor",
+          "badge": "UK",
+          "title": "No-fly cruises",
+          "text": "Sail from Southampton and other UK ports: no airport queues and more generous luggage.",
+          "slug": "cruises-from-southampton",
+          "cta": "Cruises from the UK"
+        },
+        {
+          "icon": "plane",
+          "title": "Fly-cruise packages",
+          "text": "Flights, transfers and cruise booked together, often with extra protection such as ATOL in the UK.",
+          "slug": "cruise-deals",
+          "cta": "How fly-cruises work"
+        },
+        {
+          "icon": "clock",
+          "badge": "Flexible dates",
+          "title": "Last-minute cruises",
+          "text": "Unsold cabins close to sailing can be discounted. Best if you can travel at short notice.",
+          "slug": "last-minute-cruises",
+          "cta": "Last-minute tips"
+        },
+        {
+          "icon": "repeat",
+          "title": "Repositioning cruises",
+          "text": "One-way voyages as ships move between regions, often with many sea days and good value per night.",
+          "slug": "cruise-destinations",
+          "cta": "When ships reposition"
+        }
+      ]
+    }
+  ]
+}

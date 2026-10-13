@@ -2,7 +2,6 @@
   "updated": "2026-10-13",
   "slug": "last-minute-cruises",
   "nav": "Last minute",
-  "navOrder": 5,
   "title": "Last-Minute Cruises: How to Find Late Deals",
   "description": "How to find last-minute cruise deals: when unsold cabins get discounted, guarantee cabins, flexible ports and the costs to check before booking a late cruise.",
   "keywords": [
@@ -54,9 +53,51 @@
     }
   ],
   "related": [
+    "cruise-deals",
     "caribbean-cruises",
     "cruises-from-southampton",
     "first-time-cruise-guide",
     "blog/wave-season-cruise-deals"
+  ],
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "More ways to save",
+      "intro": "Real cruise offers take a few common forms. Here’s how each works and where to look.",
+      "more": {
+        "title": "All ways to save",
+        "slug": "cruise-deals"
+      },
+      "items": [
+        {
+          "icon": "tag",
+          "title": "Guarantee cabins",
+          "text": "Book a cabin grade and let the line choose the exact cabin, sometimes for a lower fare.",
+          "cta": "How guarantees work"
+        },
+        {
+          "icon": "anchor",
+          "badge": "UK",
+          "title": "No-fly cruises",
+          "text": "Sail from Southampton and other UK ports: no airport queues and more generous luggage.",
+          "slug": "cruises-from-southampton",
+          "cta": "Cruises from the UK"
+        },
+        {
+          "icon": "wallet",
+          "title": "Onboard credit & perks",
+          "text": "Some fares include credit to spend onboard, Wi‑Fi, gratuities or drinks. Value the extras honestly.",
+          "slug": "cruise-deals",
+          "cta": "Compare perks"
+        },
+        {
+          "icon": "repeat",
+          "title": "Repositioning cruises",
+          "text": "One-way voyages as ships move between regions, often with many sea days and good value per night.",
+          "slug": "cruise-destinations",
+          "cta": "When ships reposition"
+        }
+      ]
+    }
   ]
 }

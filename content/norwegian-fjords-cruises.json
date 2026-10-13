@@ -12,7 +12,9 @@
     "geiranger cruise",
     "flam cruise",
     "bergen cruise",
-    "norwegian fjords from southampton"
+    "norwegian fjords from southampton",
+    "cruises from copenhagen",
+    "cruises from hamburg"
   ],
   "cardText": "Waterfalls, mountain walls and Bergen’s harbour: fjord cruises and northern lights voyages.",
   "eyebrow": "Ocean cruises",
@@ -62,5 +64,50 @@
     "alaska-cruises",
     "expedition-cruises",
     "blog/what-to-pack-for-a-cruise"
+  ],
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Ways to save on fjords cruises",
+      "intro": "Real cruise offers take a few common forms. Here’s how each works and where to look.",
+      "more": {
+        "title": "All ways to save",
+        "slug": "cruise-deals"
+      },
+      "items": [
+        {
+          "icon": "anchor",
+          "badge": "UK",
+          "title": "No-fly cruises",
+          "text": "Sail from Southampton and other UK ports: no airport queues and more generous luggage.",
+          "slug": "cruises-from-southampton",
+          "cta": "Cruises from the UK"
+        },
+        {
+          "icon": "clock",
+          "badge": "Flexible dates",
+          "title": "Last-minute cruises",
+          "text": "Unsold cabins close to sailing can be discounted. Best if you can travel at short notice.",
+          "slug": "last-minute-cruises",
+          "cta": "Last-minute tips"
+        },
+        {
+          "icon": "calendar",
+          "badge": "Jan–Mar",
+          "title": "Wave season offers",
+          "text": "Early-year promotions often add perks such as onboard credit, drinks or reduced deposits.",
+          "slug": "blog/wave-season-cruise-deals",
+          "cta": "How wave season works"
+        },
+        {
+          "icon": "user",
+          "badge": "Solo",
+          "title": "Solo cruise deals",
+          "text": "Look for studio cabins or reduced single supplements if you’re travelling on your own.",
+          "slug": "cruise-deals",
+          "cta": "Solo cruising tips"
+        }
+      ]
+    }
   ]
 }

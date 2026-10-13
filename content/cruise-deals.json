@@ -1,0 +1,162 @@
+{
+  "updated": "2026-10-13",
+  "slug": "cruise-deals",
+  "nav": "Cruise deals",
+  "navOrder": 0,
+  "title": "Cruise Deals: Ways to Save on Your Next Cruise",
+  "description": "How cruise deals work: last-minute fares, wave season, onboard credit, kids-sail-free, fly-cruises and solo offers, plus how to compare the true cost.",
+  "keywords": [
+    "cruise deals",
+    "cheap cruise deals",
+    "cruise offers",
+    "cruise discounts",
+    "onboard credit",
+    "kids sail free",
+    "solo cruise",
+    "single supplement",
+    "fly cruise deals",
+    "cruise price drop",
+    "best cruise deals"
+  ],
+  "cardText": "Last-minute fares, wave season, onboard credit, kids-sail-free and more: how each cruise deal works.",
+  "eyebrow": "Cruise deals",
+  "h1": "Cruise deals: how to save on your next cruise",
+  "h1Html": "Cruise deals: <span class=\"hl\">how to save</span> on your next cruise",
+  "intro": "Cruise offers come in a handful of shapes, from late discounts to added perks. Here’s how each one works, so you can spot genuine value and compare the true cost.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1688269910724-97e4f876a3b3",
+    "alt": "Pool and loungers on the stern deck of a cruise ship at sea",
+    "credit": "Steve Davison",
+    "creditUrl": "https://unsplash.com/@steve_davison"
+  },
+  "searchPlaceholder": "Search cruise deals…",
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Types of cruise deal",
+      "intro": "Real cruise offers take a few common forms. Here’s how each works and where to look.",
+      "items": [
+        {
+          "icon": "clock",
+          "badge": "Flexible dates",
+          "title": "Last-minute cruises",
+          "text": "Unsold cabins close to sailing can be discounted. Best if you can travel at short notice.",
+          "slug": "last-minute-cruises",
+          "cta": "Last-minute tips"
+        },
+        {
+          "icon": "calendar",
+          "badge": "Jan–Mar",
+          "title": "Wave season offers",
+          "text": "Early-year promotions often add perks such as onboard credit, drinks or reduced deposits.",
+          "slug": "blog/wave-season-cruise-deals",
+          "cta": "How wave season works"
+        },
+        {
+          "icon": "wallet",
+          "title": "Onboard credit & perks",
+          "text": "Some fares include credit to spend onboard, Wi‑Fi, gratuities or drinks. Value the extras honestly.",
+          "cta": "Compare perks"
+        },
+        {
+          "icon": "users",
+          "badge": "Families",
+          "title": "Kids sail free or reduced",
+          "text": "Some sailings offer free or reduced fares for third and fourth guests in a cabin. Taxes usually still apply.",
+          "slug": "family-cruises",
+          "cta": "Family cruise guide"
+        },
+        {
+          "icon": "plane",
+          "title": "Fly-cruise packages",
+          "text": "Flights, transfers and cruise booked together, often with extra protection such as ATOL in the UK.",
+          "cta": "How fly-cruises work"
+        },
+        {
+          "icon": "anchor",
+          "badge": "UK",
+          "title": "No-fly cruises",
+          "text": "Sail from Southampton and other UK ports: no airport queues and more generous luggage.",
+          "slug": "cruises-from-southampton",
+          "cta": "Cruises from the UK"
+        },
+        {
+          "icon": "repeat",
+          "title": "Repositioning cruises",
+          "text": "One-way voyages as ships move between regions, often with many sea days and good value per night.",
+          "slug": "cruise-destinations",
+          "cta": "When ships reposition"
+        },
+        {
+          "icon": "user",
+          "badge": "Solo",
+          "title": "Solo cruise deals",
+          "text": "Look for studio cabins or reduced single supplements if you’re travelling on your own.",
+          "cta": "Solo cruising tips"
+        },
+        {
+          "icon": "tag",
+          "title": "Guarantee cabins",
+          "text": "Book a cabin grade and let the line choose the exact cabin, sometimes for a lower fare.",
+          "slug": "last-minute-cruises",
+          "cta": "How guarantees work"
+        },
+        {
+          "icon": "wine",
+          "title": "Inclusive fares",
+          "text": "Luxury and river cruises often include drinks, gratuities and excursions. Compare the true total.",
+          "slug": "luxury-cruises",
+          "cta": "What’s included"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Lower fares or added perks?",
+      "html": "<p>Some offers cut the fare itself. Many others keep the fare and add value instead: onboard credit, a drinks package, Wi‑Fi, prepaid gratuities, a cabin upgrade or a reduced deposit. Both can be good deals. The test is simple: work out what you would actually have paid for the things being added, and compare the total cost of the cruise, not the headline number.</p>"
+    },
+    {
+      "h2": "Onboard credit, drinks and Wi‑Fi",
+      "html": "<p><strong>Onboard credit</strong> is money on your cabin account to spend on board, for example on drinks, specialty dining or spa treatments. Check whether it can be used for gratuities or excursions, and whether any unused amount is lost at the end of the cruise.</p><p><strong>Drinks and Wi‑Fi packages</strong> included in a fare are only valuable if you would have bought them. Packages often apply per person and may need to be bought for everyone in the cabin.</p>"
+    },
+    {
+      "h2": "Fly-cruise packages",
+      "html": "<p>A fly-cruise bundles flights (and often transfers and a hotel night) with your cruise. Booking as one package can be simpler, and in the UK flight-inclusive packages are usually protected by ATOL. If you book flights separately, allow a buffer day before the ship sails, because the ship won’t wait for a delayed flight. Popular fly-cruise regions include the <a href=\"/caribbean-cruises/\">Caribbean</a>, the <a href=\"/mediterranean-cruises/\">Mediterranean</a> and <a href=\"/canary-islands-cruises/\">the Canary Islands</a> in winter.</p>"
+    },
+    {
+      "h2": "Solo cruise deals",
+      "html": "<p>Most cruise fares are priced per person based on two people sharing, so solo travellers are often charged a <strong>single supplement</strong>. Look for ships with studio or solo cabins, and for promotions that reduce or waive the supplement. River and expedition lines sometimes run solo-friendly departures too.</p>"
+    },
+    {
+      "h2": "Price drops and booking terms",
+      "html": "<ul><li>Some cruise lines or booking sites let you move to a lower fare if prices drop before final payment. Ask what the policy is when you book.</li>\n<li>Promotional fares can have stricter change and cancellation rules, so read the terms.</li>\n<li>Deposits are usually refundable or non-refundable depending on the fare type.</li>\n<li>Taxes, port fees and gratuities may be shown separately from the headline fare.</li></ul>"
+    },
+    {
+      "h2": "A quick checklist before you book",
+      "html": "<ul><li>Same ship, same dates, same cabin grade when comparing.</li>\n<li>Add gratuities, drinks, Wi‑Fi and excursions you’ll really use.</li>\n<li>Add the cost of getting to and from the port.</li>\n<li>Check how your booking is protected, and consider travel insurance.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When are cruise deals best?",
+      "a": "There’s no single best time. Early booking usually gives the best choice of cabins, wave season (January to March) brings many promotions, and some sailings are discounted close to departure. Flexible travellers have the most options."
+    },
+    {
+      "q": "Do cruise deals include gratuities?",
+      "a": "Sometimes. Some fares or promotions include prepaid gratuities, while on other fares a daily service charge is added on board. Check the fare details."
+    },
+    {
+      "q": "Why don’t you show “from” prices?",
+      "a": "Cruise fares change constantly by date, cabin and availability. Rather than show prices that may be out of date, we explain how the deals work and link you to providers who show live fares."
+    }
+  ],
+  "related": [
+    "last-minute-cruises",
+    "blog/wave-season-cruise-deals",
+    "family-cruises",
+    "cruises-from-southampton",
+    "luxury-cruises",
+    "first-time-cruise-guide"
+  ]
+}

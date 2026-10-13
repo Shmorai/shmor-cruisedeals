@@ -1,0 +1,111 @@
+{
+  "updated": "2026-10-13",
+  "slug": "greek-islands-cruises",
+  "nav": "Greek islands",
+  "title": "Greek Islands Cruises: Compare Deals & Routes",
+  "description": "Compare Greek islands cruise deals: Santorini, Mykonos, Rhodes, Crete and Corfu. When to sail, where cruises start, small-ship options and tips for port days.",
+  "keywords": [
+    "greek islands cruise",
+    "greek islands cruises",
+    "greece cruise",
+    "santorini cruise",
+    "mykonos cruise",
+    "rhodes cruise",
+    "crete cruise",
+    "corfu cruise",
+    "aegean cruise",
+    "cruises from athens"
+  ],
+  "cardText": "Santorini, Mykonos, Rhodes and Crete: whitewashed villages, ancient sites and island-hopping by ship.",
+  "eyebrow": "Ocean cruises",
+  "h1": "Greek islands cruises",
+  "intro": "Whitewashed villages, ancient ruins and clear blue water. Compare Greek islands cruise deals and find the right route, ship and season.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1601581875309-fafbf2d3ed3a",
+    "alt": "Seaside café tables beside clear blue water in Mykonos, Greece",
+    "credit": "Johnny Africa",
+    "creditUrl": "https://unsplash.com/@johnnyafrica"
+  },
+  "searchPlaceholder": "Search Greek islands cruises…",
+  "sections": [
+    {
+      "h2": "Popular Greek island ports",
+      "html": "<ul><li><strong>Santorini:</strong> the famous caldera. Ships usually anchor and passengers go ashore by tender, then up to Fira by cable car or on foot.</li>\n<li><strong>Mykonos:</strong> windmills, Little Venice and lively beaches.</li>\n<li><strong>Rhodes:</strong> a walled medieval old town and the acropolis at Lindos.</li>\n<li><strong>Crete:</strong> Heraklion for the Palace of Knossos, or Chania’s Venetian harbour.</li>\n<li><strong>Corfu</strong> and <strong>Katakolon</strong> (for ancient Olympia) on the Ionian side.</li>\n<li><strong>Piraeus</strong>, the port for Athens, where many cruises begin or end.</li></ul>"
+    },
+    {
+      "h2": "When to cruise the Greek islands",
+      "html": "<p>The main season runs roughly from <strong>April to October</strong>. Late spring and early autumn are warm and usually less crowded than July and August, when ports such as Santorini and Mykonos are at their busiest. Summer can also bring the strong meltemi wind in the Aegean.</p>"
+    },
+    {
+      "h2": "Big ship, small ship or yacht?",
+      "html": "<p>Big ships usually combine a few famous islands with Italy, Croatia or Turkey on an <a href=\"/mediterranean-cruises/\">Eastern Mediterranean</a> itinerary. <a href=\"/luxury-cruises/\">Smaller ships</a> and yacht-style cruises can visit lesser-known islands and small harbours, often with more time in each port.</p>"
+    },
+    {
+      "h2": "Tips for a Greek islands cruise",
+      "html": "<ul><li>On tender days, allow extra time to get ashore and back.</li>\n<li>Visit popular sights early in the day or late in the afternoon to avoid the heat and crowds.</li>\n<li>Wear comfortable shoes: island towns are hilly with uneven steps.</li>\n<li>Arrive in Athens a day early to see the Acropolis before you sail.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best month for a Greek islands cruise?",
+      "a": "May, June, September and early October are popular for warm weather with fewer crowds than mid-summer."
+    },
+    {
+      "q": "Do Greek islands cruises start in Athens?",
+      "a": "Many do, from the port of Piraeus. Others start in Italy, Croatia or Turkey and include several Greek islands."
+    },
+    {
+      "q": "Why do ships use tenders in Santorini?",
+      "a": "Santorini’s caldera is deep and the old port is small, so most cruise ships anchor offshore and take passengers ashore in small boats."
+    }
+  ],
+  "related": [
+    "mediterranean-cruises",
+    "luxury-cruises",
+    "blog/cruise-entry-rules-ees-etias-uk-eta",
+    "river-cruises"
+  ],
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Ways to save on Greek islands cruises",
+      "intro": "Real cruise offers take a few common forms. Here’s how each works and where to look.",
+      "more": {
+        "title": "All ways to save",
+        "slug": "cruise-deals"
+      },
+      "items": [
+        {
+          "icon": "plane",
+          "title": "Fly-cruise packages",
+          "text": "Flights, transfers and cruise booked together, often with extra protection such as ATOL in the UK.",
+          "slug": "cruise-deals",
+          "cta": "How fly-cruises work"
+        },
+        {
+          "icon": "calendar",
+          "badge": "Jan–Mar",
+          "title": "Wave season offers",
+          "text": "Early-year promotions often add perks such as onboard credit, drinks or reduced deposits.",
+          "slug": "blog/wave-season-cruise-deals",
+          "cta": "How wave season works"
+        },
+        {
+          "icon": "wine",
+          "title": "Inclusive fares",
+          "text": "Luxury and river cruises often include drinks, gratuities and excursions. Compare the true total.",
+          "slug": "luxury-cruises",
+          "cta": "What’s included"
+        },
+        {
+          "icon": "clock",
+          "badge": "Flexible dates",
+          "title": "Last-minute cruises",
+          "text": "Unsold cabins close to sailing can be discounted. Best if you can travel at short notice.",
+          "slug": "last-minute-cruises",
+          "cta": "Last-minute tips"
+        }
+      ]
+    }
+  ]
+}

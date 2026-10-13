@@ -14,7 +14,9 @@
     "med cruise",
     "cruises from barcelona",
     "adriatic cruise",
-    "italy cruise"
+    "italy cruise",
+    "cruises from civitavecchia rome",
+    "cruises from athens piraeus"
   ],
   "cardText": "Ancient cities, island harbours and great food: Western and Eastern Med routes compared.",
   "eyebrow": "Ocean cruises",
@@ -60,9 +62,53 @@
     }
   ],
   "related": [
+    "greek-islands-cruises",
     "river-cruises",
     "luxury-cruises",
     "cruises-from-southampton",
     "blog/cruise-entry-rules-ees-etias-uk-eta"
+  ],
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Ways to save on Mediterranean cruises",
+      "intro": "Real cruise offers take a few common forms. Here’s how each works and where to look.",
+      "more": {
+        "title": "All ways to save",
+        "slug": "cruise-deals"
+      },
+      "items": [
+        {
+          "icon": "plane",
+          "title": "Fly-cruise packages",
+          "text": "Flights, transfers and cruise booked together, often with extra protection such as ATOL in the UK.",
+          "slug": "cruise-deals",
+          "cta": "How fly-cruises work"
+        },
+        {
+          "icon": "anchor",
+          "badge": "UK",
+          "title": "No-fly cruises",
+          "text": "Sail from Southampton and other UK ports: no airport queues and more generous luggage.",
+          "slug": "cruises-from-southampton",
+          "cta": "Cruises from the UK"
+        },
+        {
+          "icon": "calendar",
+          "badge": "Jan–Mar",
+          "title": "Wave season offers",
+          "text": "Early-year promotions often add perks such as onboard credit, drinks or reduced deposits.",
+          "slug": "blog/wave-season-cruise-deals",
+          "cta": "How wave season works"
+        },
+        {
+          "icon": "repeat",
+          "title": "Repositioning cruises",
+          "text": "One-way voyages as ships move between regions, often with many sea days and good value per night.",
+          "slug": "cruise-destinations",
+          "cta": "When ships reposition"
+        }
+      ]
+    }
   ]
 }

@@ -10,6 +10,10 @@
   "searchPlaceholder": "Try “Caribbean in February” or “Danube river cruise”",
   "chips": [
     {
+      "label": "Cruise deals",
+      "slug": "cruise-deals"
+    },
+    {
       "label": "Caribbean",
       "slug": "caribbean-cruises"
     },
@@ -24,10 +28,6 @@
     {
       "label": "River cruises",
       "slug": "river-cruises"
-    },
-    {
-      "label": "Last minute",
-      "slug": "last-minute-cruises"
     },
     {
       "label": "From Southampton",
@@ -87,16 +87,252 @@
       "a": "Booking early usually gives the most choice of cabins and dates, especially for school holidays and popular itineraries. Cruise lines also run promotions throughout the year, and some unsold cabins are discounted closer to sailing. See our guides to <a href=\"/last-minute-cruises/\">last-minute cruises</a> and <a href=\"/blog/wave-season-cruise-deals/\">wave season</a>."
     }
   ],
-  "related": [
-    "caribbean-cruises",
-    "mediterranean-cruises",
-    "alaska-cruises",
-    "river-cruises",
-    "norwegian-fjords-cruises",
-    "cruise-destinations"
-  ],
-  "relatedTitle": "Start exploring",
+  "related": [],
   "ctaTitle": "Where would you like to sail?",
   "latestPosts": 3,
-  "latestTitle": "Latest cruise news and guides"
+  "latestTitle": "Latest cruise news and guides",
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Free to use",
+          "text": "no booking fees"
+        },
+        {
+          "icon": "ship",
+          "title": "Ocean, river & expedition",
+          "text": "compared"
+        },
+        {
+          "icon": "compass",
+          "title": "US, UK & Europe",
+          "text": "departures"
+        },
+        {
+          "icon": "check",
+          "title": "Book direct",
+          "text": "with trusted cruise brands"
+        }
+      ]
+    },
+    {
+      "type": "tiles",
+      "title": "Cruise by region",
+      "intro": "From Caribbean beaches to Arctic ice: pick a region to see the best season, routes and departure ports.",
+      "more": {
+        "title": "All destinations",
+        "slug": "cruise-destinations"
+      },
+      "items": [
+        {
+          "slug": "caribbean-cruises",
+          "title": "Caribbean",
+          "badge": "Winter sun",
+          "text": "Beaches, reefs and island-hopping in warm water."
+        },
+        {
+          "slug": "mediterranean-cruises",
+          "title": "Mediterranean",
+          "badge": "Spring–autumn"
+        },
+        {
+          "slug": "greek-islands-cruises",
+          "title": "Greek islands",
+          "badge": "Summer"
+        },
+        {
+          "slug": "alaska-cruises",
+          "title": "Alaska",
+          "badge": "May–Sept"
+        },
+        {
+          "slug": "norwegian-fjords-cruises",
+          "title": "Norwegian fjords",
+          "badge": "Summer"
+        },
+        {
+          "slug": "canary-islands-cruises",
+          "title": "Canary Islands",
+          "badge": "Winter sun"
+        },
+        {
+          "slug": "river-cruises",
+          "title": "River cruises",
+          "badge": "Europe & Nile"
+        },
+        {
+          "slug": "expedition-cruises",
+          "title": "Expedition & polar",
+          "badge": "Adventure"
+        },
+        {
+          "slug": "cruises-from-southampton",
+          "title": "No-fly from the UK",
+          "badge": "Southampton"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "Ways to save on a cruise",
+      "intro": "No made-up “from” prices: here’s how real cruise offers work, and where to find them.",
+      "more": {
+        "title": "All ways to save",
+        "slug": "cruise-deals"
+      },
+      "items": [
+        {
+          "icon": "clock",
+          "badge": "Flexible dates",
+          "title": "Last-minute cruises",
+          "text": "Unsold cabins close to sailing can be discounted. Best if you can travel at short notice.",
+          "slug": "last-minute-cruises",
+          "cta": "Last-minute tips"
+        },
+        {
+          "icon": "calendar",
+          "badge": "Jan–Mar",
+          "title": "Wave season offers",
+          "text": "Early-year promotions often add perks such as onboard credit, drinks or reduced deposits.",
+          "slug": "blog/wave-season-cruise-deals",
+          "cta": "How wave season works"
+        },
+        {
+          "icon": "wallet",
+          "title": "Onboard credit & perks",
+          "text": "Some fares include credit to spend onboard, Wi‑Fi, gratuities or drinks. Value the extras honestly.",
+          "slug": "cruise-deals",
+          "cta": "Compare perks"
+        },
+        {
+          "icon": "users",
+          "badge": "Families",
+          "title": "Kids sail free or reduced",
+          "text": "Some sailings offer free or reduced fares for third and fourth guests in a cabin. Taxes usually still apply.",
+          "slug": "family-cruises",
+          "cta": "Family cruise guide"
+        },
+        {
+          "icon": "plane",
+          "title": "Fly-cruise packages",
+          "text": "Flights, transfers and cruise booked together, often with extra protection such as ATOL in the UK.",
+          "slug": "cruise-deals",
+          "cta": "How fly-cruises work"
+        },
+        {
+          "icon": "anchor",
+          "badge": "UK",
+          "title": "No-fly cruises",
+          "text": "Sail from Southampton and other UK ports: no airport queues and more generous luggage.",
+          "slug": "cruises-from-southampton",
+          "cta": "Cruises from the UK"
+        },
+        {
+          "icon": "user",
+          "badge": "Solo",
+          "title": "Solo cruise deals",
+          "text": "Look for studio cabins or reduced single supplements if you’re travelling on your own.",
+          "slug": "cruise-deals",
+          "cta": "Solo cruising tips"
+        },
+        {
+          "icon": "repeat",
+          "title": "Repositioning cruises",
+          "text": "One-way voyages as ships move between regions, often with many sea days and good value per night.",
+          "slug": "cruise-destinations",
+          "cta": "When ships reposition"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How CruiseDeals works",
+      "items": [
+        {
+          "icon": "search",
+          "title": "Search or browse",
+          "text": "Pick a region, a cruise style or a departure port, or just search for where you’d like to go."
+        },
+        {
+          "icon": "compass",
+          "title": "Compare like for like",
+          "text": "Our guides show the best seasons, routes and what each fare really includes, so you compare the true cost."
+        },
+        {
+          "icon": "ship",
+          "title": "Book direct",
+          "text": "Book with the cruise line or booking site under their terms. We never add a fee."
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "title": "Popular departure ports",
+      "items": [
+        {
+          "icon": "anchor",
+          "title": "Southampton",
+          "slug": "cruises-from-southampton"
+        },
+        {
+          "icon": "anchor",
+          "title": "Miami",
+          "q": "cruises from miami"
+        },
+        {
+          "icon": "anchor",
+          "title": "Fort Lauderdale",
+          "q": "cruises from fort lauderdale"
+        },
+        {
+          "icon": "anchor",
+          "title": "Port Canaveral",
+          "q": "cruises from port canaveral"
+        },
+        {
+          "icon": "anchor",
+          "title": "Galveston",
+          "q": "cruises from galveston"
+        },
+        {
+          "icon": "anchor",
+          "title": "Seattle",
+          "q": "cruises from seattle"
+        },
+        {
+          "icon": "anchor",
+          "title": "Vancouver",
+          "q": "cruises from vancouver"
+        },
+        {
+          "icon": "anchor",
+          "title": "Barcelona",
+          "q": "cruises from barcelona"
+        },
+        {
+          "icon": "anchor",
+          "title": "Rome (Civitavecchia)",
+          "q": "cruises from civitavecchia rome"
+        },
+        {
+          "icon": "anchor",
+          "title": "Athens (Piraeus)",
+          "q": "cruises from athens piraeus"
+        },
+        {
+          "icon": "anchor",
+          "title": "Copenhagen",
+          "q": "cruises from copenhagen"
+        },
+        {
+          "icon": "anchor",
+          "title": "Tenerife",
+          "slug": "canary-islands-cruises"
+        }
+      ]
+    }
+  ]
 }

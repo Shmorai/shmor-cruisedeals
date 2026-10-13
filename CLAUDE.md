@@ -12,12 +12,18 @@ A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design a
 | "Cruise region" field in every search box | `assets/site.js` |
 | Generated output (don't edit by hand) | `index.html`, `*/index.html`, `sitemap.xml`, `robots.txt`, `404.html`, `search/`, `search-index.json`, `blog/feed.xml` |
 
-## Pages (18)
-Home · caribbean-cruises · mediterranean-cruises · alaska-cruises · norwegian-fjords-cruises · river-cruises · last-minute-cruises · cruises-from-southampton · family-cruises · luxury-cruises · expedition-cruises · first-time-cruise-guide · cruise-destinations · blog (+4 posts: EES/ETIAS/UK ETA for cruise passengers, wave season, Christmas & New Year cruises, what to pack).
-Top menu = pages with `navOrder` (Caribbean, Mediterranean, Alaska, River cruises, Last minute, Destinations, Cruise blog). The rest are in the footer and linked via `related`.
+## Pages (21)
+Home · cruise-deals (ways to save hub) · caribbean-cruises · mediterranean-cruises · greek-islands-cruises · alaska-cruises · norwegian-fjords-cruises · canary-islands-cruises · river-cruises · last-minute-cruises · cruises-from-southampton · family-cruises · luxury-cruises · expedition-cruises · first-time-cruise-guide · cruise-destinations · blog (+4 posts: EES/ETIAS/UK ETA for cruise passengers, wave season, Christmas & New Year cruises, what to pack).
+Top menu = pages with `navOrder` (Cruise deals [mobile/tablet only; desktop shows the gold "Ways to save" header button instead], Caribbean, Mediterranean, Alaska, River cruises, Destinations, Cruise blog). The rest are in the footer and linked via `related` and the region tiles.
+
+## Cards & deal blocks (added 2026-10-13)
+Pages can have `"blocks"` (a site-kit feature, see the comment above `block()` in tools/build.js): `strip` (trust bar, `"position": "top"`), `tiles` (photo mosaic, first tile is large), `deals` (icon cards with badges), `steps` (numbered), `links` (pill links). Items link by `slug`, `href` or `q` (site search) and reuse the linked page's photo/cardText unless given.
+- **Home:** trust strip → Cruise by region (9 tiles) → Ways to save (8 deal cards) → Why compare → How it works → latest posts → Popular departure ports → guide text (visual order set with CSS `order` in the theme block).
+- **Region/style pages:** a 4-card "Ways to save on … cruises" block. **cruise-deals:** all 10 deal types. **cruise-destinations:** region tiles.
+- Deal cards explain deal *types* (last-minute, wave season, onboard credit, kids sail free, fly-cruise, no-fly, repositioning, solo, guarantee cabins, inclusive fares). They never show prices or specific offers. Real partner offers appear in the separate "Compare deals from our partners" block once referral links/offers are added to shmor-site.json.
 
 ## Design
-"Midnight voyage" (created 2026-10-13): deep-ocean navy pages (#071526, surfaces #0D2038), champagne gold #E3B04B (links, accents; the shmor.ai card accent), sea glass #5EC4D6 (deal badges), Fraunces serif headings (italic gold for highlights) + Inter body. Logo = white ship with a gold funnel and gold wave in a navy rounded square + "Cruise*Deals*" + "by Shmor.ai" pill. Home: sunset ship photo hero with a cream search card (Where to sail + "Cruise region" select, folded into `?q=`), quick chips, then "Start exploring" cards moved up with CSS `order`. Numbered tiles look like gold-rimmed portholes. Bottom CTA = navy-to-bronze sunset band. Mobile checked at 375px (search stacks, no horizontal scroll).
+"Midnight voyage" (created 2026-10-13; cards, deal blocks and header button added the same day): deep-ocean navy pages (#071526, surfaces #0D2038), champagne gold #E3B04B (links, accents; the shmor.ai card accent), sea glass #5EC4D6 (deal badges), Fraunces serif headings (italic gold for highlights) + Inter body. Logo = white ship with a gold funnel and gold wave in a navy rounded square + "Cruise*Deals*" + "by Shmor.ai" pill. Home: sunset ship photo hero with a cream search card (Where to sail + "Cruise region" select, folded into `?q=`), quick chips, then "Start exploring" cards moved up with CSS `order`. Numbered tiles look like gold-rimmed portholes. Bottom CTA = navy-to-bronze sunset band. Mobile checked at 375px (search stacks, no horizontal scroll).
 **Photos:** every page has a free-licence Unsplash `"image"` (hotlinked, resized by URL): banner + card + og:image. To change one, swap `src`/`credit`/`creditUrl` and rebuild.
 
 ## Content rules

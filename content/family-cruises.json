@@ -58,5 +58,49 @@
     "first-time-cruise-guide",
     "cruises-from-southampton",
     "blog/what-to-pack-for-a-cruise"
+  ],
+  "blocks": [
+    {
+      "type": "deals",
+      "title": "Ways to save on a family cruise",
+      "intro": "Real cruise offers take a few common forms. Here’s how each works and where to look.",
+      "more": {
+        "title": "All ways to save",
+        "slug": "cruise-deals"
+      },
+      "items": [
+        {
+          "icon": "users",
+          "badge": "Families",
+          "title": "Kids sail free or reduced",
+          "text": "Some sailings offer free or reduced fares for third and fourth guests in a cabin. Taxes usually still apply.",
+          "cta": "Family cruise guide"
+        },
+        {
+          "icon": "clock",
+          "badge": "Flexible dates",
+          "title": "Last-minute cruises",
+          "text": "Unsold cabins close to sailing can be discounted. Best if you can travel at short notice.",
+          "slug": "last-minute-cruises",
+          "cta": "Last-minute tips"
+        },
+        {
+          "icon": "calendar",
+          "badge": "Jan–Mar",
+          "title": "Wave season offers",
+          "text": "Early-year promotions often add perks such as onboard credit, drinks or reduced deposits.",
+          "slug": "blog/wave-season-cruise-deals",
+          "cta": "How wave season works"
+        },
+        {
+          "icon": "anchor",
+          "badge": "UK",
+          "title": "No-fly cruises",
+          "text": "Sail from Southampton and other UK ports: no airport queues and more generous luggage.",
+          "slug": "cruises-from-southampton",
+          "cta": "Cruises from the UK"
+        }
+      ]
+    }
   ]
 }
