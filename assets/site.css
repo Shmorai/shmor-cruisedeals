@@ -431,3 +431,12 @@ section h2 { font-size: clamp(25px, 3.2vw, 34px); margin-bottom: 22px; }
 .tile-photo:not(.tile-feature):hover .tile-body p, .tile-photo:not(.tile-feature):focus-visible .tile-body p { max-height: 80px; opacity: .92; }
 @media (hover: none) { .tile-photo:not(.tile-feature) .tile-body p { display: none; } }
 @media (max-width: 520px) { .tiles { grid-auto-rows: 160px; } .tile-feature .tile-body p { display: none; } .tile-photo::after { display: none; } }
+
+/* Menu folds into the menu button when it doesn't fit (set by site.js) */
+.nav-compact .menu { display: block; }
+.nav-compact .nav { display: none; position: absolute; left: 0; right: 0; top: 100%; flex-direction: column; gap: 0; background: var(--surface); border-bottom: 1px solid var(--line); padding: 8px 20px 16px; box-shadow: 0 12px 30px rgba(0,0,0,.18); z-index: 60; }
+.nav-compact .nav.open { display: flex; }
+.nav-compact .nav a { padding: 12px 0; border-bottom: 1px solid var(--line); }
+
+/* Let article columns shrink so wide tables scroll inside their box instead of widening the page */
+.content-grid > * { min-width: 0; }
