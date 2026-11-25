@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-11-25",
   "slug": "luxury-cruises",
   "nav": "Luxury",
   "title": "Luxury Cruises: Compare Small-Ship Cruise Deals",
@@ -37,6 +37,10 @@
     {
       "h2": "Premium, luxury or ultra-luxury?",
       "html": "<p>Cruise lines are often grouped as mainstream, premium, luxury and ultra-luxury, although there’s no official definition. Premium lines sit in between, with more refined dining and service than mainstream ships but fewer inclusions than true luxury lines. Compare what each fare actually includes rather than relying on the label.</p>"
+    },
+    {
+      "h2": "How to compare luxury cruise fares like for like",
+      "html": "<p>Luxury fares are rarely directly comparable, because lines bundle different things. Before choosing, write down what each fare includes and compare the same list across lines:</p><ul><li><strong>Drinks:</strong> are all drinks included, or only house wines and soft drinks? Are premium spirits extra?</li><li><strong>Gratuities:</strong> included in the fare, or added per person per day?</li><li><strong>Excursions and Wi-Fi:</strong> any shore excursions, specialty dining or internet included, and are there limits?</li><li><strong>Flights and transfers:</strong> included, or extra? Check the departure airport and class of travel.</li><li><strong>Suite or cabin category:</strong> exactly which cabin the fare applies to, and whether the cabin is guaranteed or allocated nearer to sailing.</li></ul><p>Always read the booking terms of the line you book with, and see our <a href=\"/blog/cruise-cabin-types-inside-balcony-suite/\">cruise cabin types guide</a> and <a href=\"/blog/cruise-travel-insurance-what-to-check/\">cruise travel insurance checklist</a> before you pay a deposit.</p>"
     }
   ],
   "faqs": [
@@ -51,6 +55,14 @@
     {
       "q": "Is there a dress code on luxury cruises?",
       "a": "It depends on the line. Some keep formal nights, while many have moved to “elegant casual”. Your cruise line will publish its dress code."
+    },
+    {
+      "q": "Are drinks included in luxury cruise fares?",
+      "a": "It depends on the line and the fare. Some luxury fares include drinks and others charge for some or all of them, so check what your fare includes before comparing prices."
+    },
+    {
+      "q": "What should I compare when choosing between luxury cruise lines?",
+      "a": "Compare what the fare includes (drinks, gratuities, excursions, Wi-Fi, flights), the exact cabin category and the itinerary, not just the headline price."
     }
   ],
   "related": [
